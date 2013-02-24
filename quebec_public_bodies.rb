@@ -1,5 +1,6 @@
 # coding: utf-8
 # @todo Properly case the organization name and rename the tag.
+# @todo Use the same headers as Alaveteli.
 
 require 'csv'
 require 'active_support/inflector'
