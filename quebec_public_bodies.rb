@@ -60,7 +60,7 @@ organizations = []
         }
 
         block.each_with_index do |x,index|
-          # Ensure that organizations are read before names and roles before
+          # Ensure that organizations are read before names, and roles before
           # addresses. Addresses swallow whatever is left.
           if organization[:name].nil?
             if x[/\A[\p{Lu}\p{Punct}\p{Space}]+\z/]
