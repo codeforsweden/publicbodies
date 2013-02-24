@@ -2,6 +2,7 @@
 # @todo Properly case the organization name and rename the tag.
 
 require 'csv'
+require 'active_support/inflector'
 
 if ARGV.include?('--clobber') || !File.exist?('CAI_liste_resp_acces.pdf')
   `curl -O http://www.cai.gouv.qc.ca/documents/CAI_liste_resp_acces.pdf`
@@ -90,14 +91,27 @@ organizations = []
   end
 end
 
+# Alaveteli does not support multiple contacts per public body.
+safe = organizations.uniq do |x|
+  ActiveSupport::Inflector.parameterize(x[:organization])
+end
+
 puts "%4d organizations" % organizations.size
 puts "%4d voice" % organizations.count{|x| x[:voice]}
 puts "%4d fax" % organizations.count{|x| x[:fax]}
 puts "%4d email" % organizations.count{|x| x[:email]}
+puts "%4d safe" % safe.size
 
 CSV.open('organizations.csv', 'w') do |csv|
   csv << organizations.first.keys
   organizations.each do |organization|
+    csv << organization.values
+  end
+end
+
+CSV.open('organizations-alaveteli-safe.csv', 'w') do |csv|
+  csv << safe.first.keys
+  safe.each do |organization|
     csv << organization.values
   end
 end
