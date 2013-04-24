@@ -2,6 +2,8 @@
 # @todo Properly case the organization name and rename the tag.
 # @todo Use the same headers as Alaveteli.
 
+# @note Requires Ruby 1.9 and Rails 3.x.
+
 require 'csv'
 require 'active_support/inflector'
 
