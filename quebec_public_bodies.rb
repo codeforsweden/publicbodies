@@ -50,6 +50,7 @@ end
 
 ignore = /\A(Dernière mise à jour : \d{4}-\d{2}-\d{2} \d{2}:\d{2}|Page \d+|Répertoire des organismes assujettis et des responsables de l'accès aux documents des organismes publics et de la protection des renseignements personnels)\z/
 
+# Alternatively, we can hardcode the table of contents and skip this step.
 table_of_contents = nil
 block = []
 `pdftotext CAI_liste_resp_acces.pdf -`.split("\n").each do |line|
