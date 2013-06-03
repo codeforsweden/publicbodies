@@ -1,6 +1,7 @@
 #!/usr/bin/env ruby
 # coding: utf-8
 
+require 'active_support/inflector'
 require 'csv'
 
 if ARGV.include?('--clobber') || !File.exist?('CAI_liste_resp_acces.pdf')
@@ -168,6 +169,8 @@ headers.each do |header|
 end
 puts "%5.1f%% unique" % (unique.size / size * 100)
 
+
+
 CSV.open('organizations.csv', 'w') do |csv|
   csv << headers
   organizations.each do |organization|
@@ -227,4 +230,32 @@ CSV.open('organizations-for-alateveli.csv', 'w') do |csv|
       tags.fetch(organization[:type]) * ' '
     ]
   end
+end
+
+CSV.open('quebec.csv', 'w') do |csv|
+  csv << %w(title abbr key category parent parent_key description url jurisdiction jurisdiction_code source source_url address contact email tags created_at updated_at)
+  
+  organizations.each do |organization|
+    csv << [
+      organization[:organization],                          #title
+      nil,                                                   #abbr
+      'qc/' << organization[:organization].parameterize,   #key
+      organization[:type],                                  #category
+      nil,                                                   #parent
+      nil,                                                   #parent_key
+      nil,                                                   #description
+      nil,                                                   #url
+      'Quebec',                                             #jurisdiction
+      'QC',                                                 #jurisdiction_code
+      "Commision d'accès à l'information du Québec",        #source
+      'http://www.cai.gouv.qc.ca/documents/CAI_liste_resp_acces.pdf', #source_url
+      organization[:address],                               #address
+      organization[:name],                                  #contact
+      organization[:email],                                 #email
+      nil,                                                   #tags
+      '5/17/13',                                            #created at
+      Date.today.strftime('%-m/%-d/%y')                         #updated at
+    ]  
+  end  
+  
 end
