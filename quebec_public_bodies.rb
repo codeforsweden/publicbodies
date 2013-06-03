@@ -1,6 +1,7 @@
 #!/usr/bin/env ruby
 # coding: utf-8
 
+require 'active_support/inflector'
 require 'csv'
 
 if ARGV.include?('--clobber') || !File.exist?('CAI_liste_resp_acces.pdf')
@@ -237,13 +238,13 @@ CSV.open('quebec.csv', 'w') do |csv|
   organizations.each do |organization|
     csv << [
       organization[:organization],                          #title
-      '',                                                   #abbr
-      'qc/' << organization[:organization].gsub(' ','-'),   #key
+      nil,                                                   #abbr
+      'qc/' << organization[:organization].parameterize,   #key
       organization[:type],                                  #category
-      '',                                                   #parent
-      '',                                                   #parent_key
-      '',                                                   #description
-      '',                                                   #url
+      nil,                                                   #parent
+      nil,                                                   #parent_key
+      nil,                                                   #description
+      nil,                                                   #url
       'Quebec',                                             #jurisdiction
       'QC',                                                 #jurisdiction_code
       "Commision d'accès à l'information du Québec",        #source
@@ -251,7 +252,7 @@ CSV.open('quebec.csv', 'w') do |csv|
       organization[:address],                               #address
       organization[:name],                                  #contact
       organization[:email],                                 #email
-      '',                                                   #tags
+      nil,                                                   #tags
       '5/17/13',                                            #created at
       Date.today.strftime('%-m/%-d/%y')                         #updated at
     ]  
