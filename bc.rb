@@ -29,10 +29,10 @@ CSV.open('bc.csv', 'w') do |csv|
       csv << [
         division,                                #title
         nil,                                     #abbr
-        'on/' << division.text.parameterize,     #key
+        'bc/' << division.text.parameterize,     #key
         nil,                                     #category
         org,                                     #parent
-        org.text.parameterize,                   #parent_key
+        'bc/' << org.text.parameterize,          #parent_key
         nil,                                     #description
         info.xpath('.//tr[3]/td[6]/a/@href'),     #url
         'British Columbia',                      #jurisdiction
