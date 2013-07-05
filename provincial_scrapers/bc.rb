@@ -6,7 +6,7 @@ require 'nokogiri'
 
 BASE_URL = 'http://dir.gov.bc.ca' 
 
-CSV.open('bc.csv', 'w') do |csv|
+CSV.open(File.expand_path(".",Dir.pwd)+'/provincial_data/'+'bc.csv', 'w') do |csv|
   csv << %w(title abbr key category parent parent_key description url jurisdiction jurisdiction_code source source_url address contact email tags created_at updated_at)
 
 
@@ -16,7 +16,6 @@ CSV.open('bc.csv', 'w') do |csv|
     href = page.xpath('//table[@width="725"]//td//a').each do |division|
       page = Nokogiri::HTML(open(BASE_URL+division['href']))
       info = page.xpath('//table[@width="744"]')
-      p division.text
       
       email = info.xpath('.//tr[2]//td[6]').text
       one, two, three = email.scan(/(?<=')([^',]*)(?=')/)

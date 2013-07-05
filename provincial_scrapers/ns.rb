@@ -78,7 +78,7 @@ def new_record(title, category, url, address, email)
   ]
 end
 
-CSV.open('ns.csv', 'w') do |csv|
+CSV.open(File.expand_path(".",Dir.pwd)+'/provincial_data/'+'ns.csv', 'w') do |csv|
   csv << %w(title abbr key category parent parent_key description url jurisdiction jurisdiction_code source source_url address contact email tags created_at updated_at)
 
   doc = Nokogiri::HTML(open(BASE_URL+'/government/gov_index.asp'))

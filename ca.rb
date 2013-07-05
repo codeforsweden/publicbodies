@@ -70,3 +70,18 @@ CSV.open('ca.csv','w') do |csv|
     end
   end
 end
+  
+
+## run provincial scrapers
+Dir["provincial_scrapers/*.rb"].each{|s| load s }
+## append ca.csv with provincial data
+files = Dir["provincial_data/*.csv"] 
+
+CSV.open('ca.csv', 'a+') do |csv|
+  files.each do |file_name|
+    CSV.foreach(file_name) do |row|
+      next if row.include? 'title'
+      csv << row
+    end
+  end
+end

@@ -232,7 +232,7 @@ CSV.open('organizations-for-alateveli.csv', 'w') do |csv|
   end
 end
 
-CSV.open('quebec.csv', 'w') do |csv|
+CSV.open(File.expand_path(".",Dir.pwd)+'/provincial_data/'+'quebec.csv', 'w') do |csv|
   csv << %w(title abbr key category parent parent_key description url jurisdiction jurisdiction_code source source_url address contact email tags created_at updated_at)
   
   organizations.each do |organization|
