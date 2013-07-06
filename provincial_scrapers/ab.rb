@@ -24,7 +24,7 @@ CSV.open(File.expand_path(".",Dir.pwd)+'/provincial_data/'+'ab.csv','w') do |csv
       cells = row.xpath('.//td')
 
       contact = cells[0].text
-      title = cells[1].text[0..-2]
+      title = cells[1].text.gsub(/^[[:space:]]|[[:space:]]$/, '')
       category = cells[3].text
 
       contact_url = row.at_xpath('.//a')['href']
@@ -33,15 +33,15 @@ CSV.open(File.expand_path(".",Dir.pwd)+'/provincial_data/'+'ab.csv','w') do |csv
       doc = Nokogiri::HTML(open("http://www.servicealberta.ca/foip/"+contact_url))
       
       address = doc.xpath('//form/table//table//tr[2]/td')[0].text
-      address.gsub!(/\W{2,}/,' ').strip!
+      address.gsub!(/\s{2,}/,' ').strip!
       
-      p title
-      if address.include? title
-        address = address.match(/(?<=#{title}).*(?=phone)?/i)[0].to_s.strip
-      else
-        boundary = title.split(' ')[-1].gsub(/[\(\)]/,' ')
-        address = address.match(/(?<=#{boundary}).*(?=phone)?/i)[0].gsub(/\)/,'').to_s.strip
-      end
+
+      boundary = title.gsub(/\(/,'\(').gsub(/\)/,'\)').gsub(/ {2,}/,' ')
+      p boundary
+      p address
+      address = address.match(/(?<=#{boundary})(.*)/)[0].to_s.strip
+      address.gsub!(/Phone.*/,'')
+
       email = doc.at_xpath('//a[contains(@href, "mailto:")]')
 
       email = email.text if email
