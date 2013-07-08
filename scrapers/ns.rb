@@ -66,7 +66,7 @@ def new_record(title, category, url, address, email)
     nil,                                     #description
     url,                                     #url
     'Nova Scotia',                           #jurisdiction
-    'NS',                                    #jurisdiction_code
+    'ocd-division/country:ca/province:ns',                                    #jurisdiction_code
     "Government Directory",                  #source
     BASE_URL+'/government/gov_index.asp',    #source_url
     address,                                 #address
@@ -95,7 +95,6 @@ CSV.open(File.expand_path(".",Dir.pwd)+'/data/'+'ns.csv', 'w') do |csv|
         url = BAD_LINKS[title]
       end
     end
-    p url
     page = Nokogiri::HTML(RestClient.get(url, 'User-Agent' => 'ruby'))
     contact_url = page.xpath('//a[contains(text(),"Contact")]')
 

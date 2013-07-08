@@ -57,7 +57,7 @@ CSV.open(File.expand_path(".",Dir.pwd)+'/data/'+'ca_federal.csv','w') do |csv|
     file = http.get(crown_url)
     p file
     CSV.parse(file.body, :headers => true) do |record|
-      add_record(record,csv)
+      add_record(record.encode('utf-8'),csv)
     end
 
     file = http.get(fed_inst_url)

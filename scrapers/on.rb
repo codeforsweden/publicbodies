@@ -11,7 +11,6 @@ CSV.open(File.expand_path(".",Dir.pwd)+'/data/'+'on.csv', 'w') do |csv|
   doc = Nokogiri::HTML(open('https://www.pas.gov.on.ca/scripts/en/BoardsList.asp'))
   doc.xpath('//div[@class="MiddleList"]//ul//li/a').each do |li|
     title = li.text.downcase
-    p title
     next if title.include? "ministry responsibilities"
     page = Nokogiri::HTML(open("https://www.pas.gov.on.ca/scripts/en/#{li['href'].strip}"))
     page.xpath('//div[@class="MiddleList"]').each do |info|

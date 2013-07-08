@@ -38,13 +38,17 @@ namespace :scrape do
       end
     end
 
-    files = Dir["provincial_data/*.csv"]
+    files = Dir["data/*.csv"]
     CSV.open('ca.csv', 'w') do |csv|
+      csv << %w(title abbr key category parent parent_key description url jurisdiction jurisdiction_code source source_url address contact email tags created_at updated_at)
+
       files.each do |file_name|
-        CSV.foreach(file_name) do |row|
-          next if row.include? 'title'
+        p file_name
+        csv_text = File.read(file_name)
+        csv_content = CSV.parse(csv_text, :headers => true)
+        csv_content.each do |row|
           csv << row
-        end
+        end      
       end
     end
   end
