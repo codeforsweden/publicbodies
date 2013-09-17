@@ -22,19 +22,19 @@ class AB < OrganizationProcessor
         tds = row.xpath('.//td')
         td = doc.at_xpath('//table//table//tr[2]/td')
         href = td.at_xpath('./a[contains(@href, "mailto:")]/@href')
-        text = clean(td.text)
+        text = clean(td.text) # invalid HTML </br>
         url = URI.parse(URL)
         url.query = query
 
         organization = Pupa::Organization.new
+        organization.parent_id = parent._id
         organization.name = clean(tds[1].text)
         organization.classification = clean(tds[3].text)
-        organization.parent_id = parent._id
         organization.add_contact_detail('address', text[/#{Regexp.escape(organization.name)} (.+?)(?: (?:Phone|Fax|Email):|\z)/, 1])
-        organization.add_contact_detail('voice', text[/Phone: (.+?)(?: (?:Fax|Email):|\z)/, 1])
-        organization.add_contact_detail('fax', text[/Fax: (.+?)(?: Email:|\z)/, 1])
         organization.add_contact_detail('email', href.value.sub('mailto:', '')) if href
-        organization.add_source(url.to_s, note: 'Alberta Directory of Public Bodies')
+        organization.add_contact_detail('voice', tel(text[/Phone:(.+?)(?:Fax:|Email:|\z)/, 1]))
+        organization.add_contact_detail('fax', tel(text[/Fax:(.+?)(?:Email:|\z)/, 1]))
+        organization.add_source(url.to_s, note: 'Directory of Public Bodies')
         organization.add_extra(:contact_point, clean(tds[0].text))
 
         Fiber.yield(organization)
