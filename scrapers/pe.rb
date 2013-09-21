@@ -16,7 +16,7 @@ class PE < OrganizationProcessor
       href = a[:href]
 
       # The vCard at the person's URL does not have the *mailing* address.
-      address = text[/#{Regexp.escape(a.text)}(.+?)(?=Tel:|Fax:)/m, 1].strip.gsub(' ', ' ') # non-breaking space
+      address = adr(text[/#{Regexp.escape(a.text)}(.+?)(?=Tel:|Fax:)/m, 1].strip.gsub(' ', ' ')) # non-breaking space
 
       organization = Pupa::Organization.new
       organization.parent_id = parent._id
@@ -39,6 +39,10 @@ class PE < OrganizationProcessor
         organization.add_contact_detail('voice', tel(vcard.telephones.find{|x| x.location == ['work']}))
         organization.add_contact_detail('fax', tel(vcard.telephones.find{|x| x.capability == ['fax']}))
         organization.add_extra(:contact_point, vcard.name.fullname)
+      end
+
+      unless valid_postal_code?(address)
+        warn("Invalid postal code #{address[POSTAL_CODE_RE]} for #{organization.name}")
       end
 
       Fiber.yield(organization)

@@ -23,19 +23,25 @@ class AB < OrganizationProcessor
         td = doc.at_xpath('//table//table//tr[2]/td')
         href = td.at_xpath('./a[contains(@href, "mailto:")]/@href')
         text = clean(td.text) # invalid HTML </br>
+        name = clean(tds[1].text)
+        address = text[/#{Regexp.escape(name)} (.+?)(?: (?:Phone|Fax|Email):|\z)/, 1]
         url = URI.parse(URL)
         url.query = query
 
         organization = Pupa::Organization.new
         organization.parent_id = parent._id
-        organization.name = clean(tds[1].text)
+        organization.name = name
         organization.classification = clean(tds[3].text)
-        organization.add_contact_detail('address', text[/#{Regexp.escape(organization.name)} (.+?)(?: (?:Phone|Fax|Email):|\z)/, 1])
+        organization.add_contact_detail('address', address)
         organization.add_contact_detail('email', href.value.sub('mailto:', '')) if href
         organization.add_contact_detail('voice', tel(text[/Phone:(.+?)(?:Fax:|Email:|\z)/, 1]))
         organization.add_contact_detail('fax', tel(text[/Fax:(.+?)(?:Email:|\z)/, 1]))
         organization.add_source(url.to_s, note: 'Directory of Public Bodies')
         organization.add_extra(:contact_point, clean(tds[0].text))
+
+        unless valid_postal_code?(address)
+          warn("Invalid postal code #{address[POSTAL_CODE_RE]} for #{organization.name}")
+        end
 
         Fiber.yield(organization)
       end
