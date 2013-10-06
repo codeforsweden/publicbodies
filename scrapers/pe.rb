@@ -50,4 +50,4 @@ class PE < OrganizationProcessor
   end
 end
 
-Pupa::Runner.new(PE, database: 'publicbodies', expires_in: 604800).run(ARGV) # 1 week
+run(PE)

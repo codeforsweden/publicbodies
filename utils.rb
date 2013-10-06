@@ -34,6 +34,10 @@ class OrganizationProcessor < Pupa::Processor
 
   include OrganizationHelper
 
+  def documents
+    Pupa.session['organizations'].find(jurisdiction_code: self.class.jurisdiction_code)
+  end
+
   # @see https://github.com/okfn/publicbodies/blob/master/datapackage.json
   def public_bodies
     puts CSV.generate_line %w(
@@ -56,7 +60,9 @@ class OrganizationProcessor < Pupa::Processor
       source_url
     )
 
-    organizations.each do |organization|
+    documents.each do |document|
+      organization = Pupa::Organization.new(document)
+
       puts CSV.generate_line [
         organization._id,
         organization.name,
@@ -80,7 +86,9 @@ class OrganizationProcessor < Pupa::Processor
   end
 
   def nomenklatura
-    organizations.each do |organization|
+    documents.each do |document|
+      organization = Pupa::Organization.new(document)
+
       puts CSV.generate_line [
         organization.name,
       ]
@@ -95,7 +103,9 @@ class OrganizationProcessor < Pupa::Processor
       'request_email',
     ]
 
-    organizations.each do |organization|
+    documents.each do |document|
+      organization = Pupa::Organization.new(document)
+
       puts CSV.generate_line [
         organization._id,
         organization.name,
