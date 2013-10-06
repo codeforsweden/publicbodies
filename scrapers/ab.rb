@@ -2,11 +2,11 @@ require File.expand_path(File.join('..', 'utils.rb'), __dir__)
 
 class AB < OrganizationProcessor
   URL = 'http://www.servicealberta.ca/foip/directory-of-public-bodies.cfm'
-  @jurisdiction_code = 'CA-AB'
+  self.jurisdiction_code = 'CA-AB'
 
   def scrape_organizations
     id = 'ocd-organization/country:ca/province:ab'
-    parent = Pupa::Organization.new(_id: id, name: names[id])
+    parent = Pupa::Organization.new(_id: id, name: 'Government of Alberta')
     Fiber.yield(parent)
 
     doc = post(URL, 'fuseaction=SearchResults&first_name=&last_name=&pb_name=&pbtype=&city=')
@@ -38,7 +38,7 @@ class AB < OrganizationProcessor
         organization.add_contact_detail('voice', tel(text[/Phone:(.+?)(?:Fax:|Email:|\z)/, 1]))
         organization.add_contact_detail('fax', tel(text[/Fax:(.+?)(?:Email:|\z)/, 1]))
         organization.add_source(url.to_s, note: 'Directory of Public Bodies')
-        organization.add_extra(:contact_point, clean(tds[0].text))
+        organization.add_extra(:contact_point, [{name: clean(tds[0].text)}])
 
         unless valid_postal_code?(address)
           warn("Invalid postal code #{address[POSTAL_CODE_RE]} for #{organization.name}")

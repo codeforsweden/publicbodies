@@ -1,12 +1,12 @@
 require File.expand_path(File.join('..', 'utils.rb'), __dir__)
 
-# @see http://www.gov.pe.ca/departments
 class PE < OrganizationProcessor
   URL = 'http://www.gov.pe.ca/jps/index.php3?number=1024337&lang=E'
+  self.jurisdiction_code = 'CA-PE'
 
   def scrape_organizations
     id = 'ocd-organization/country:ca/province:pe'
-    parent = Pupa::Organization.new(_id: id, name: names[id])
+    parent = Pupa::Organization.new(_id: id, name: 'Government of Prince Edward Island')
     Fiber.yield(parent)
 
     get(URL).at_css('#content_2c').to_s.split(/<br>(?=<strong>)/).drop(1).each do |html|
@@ -38,7 +38,7 @@ class PE < OrganizationProcessor
         organization.add_contact_detail('email', vcard.email.to_s)
         organization.add_contact_detail('voice', tel(vcard.telephones.find{|x| x.location == ['work']}))
         organization.add_contact_detail('fax', tel(vcard.telephones.find{|x| x.capability == ['fax']}))
-        organization.add_extra(:contact_point, vcard.name.fullname)
+        organization.add_extra(:contact_point, [{name: vcard.name.fullname}])
       end
 
       unless valid_postal_code?(address)

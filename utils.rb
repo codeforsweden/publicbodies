@@ -34,16 +34,6 @@ class OrganizationProcessor < Pupa::Processor
 
   include OrganizationHelper
 
-  def names
-    @names ||= begin
-      names = {}
-      CSV.foreach(File.expand_path(File.join('data', 'ca_provinces_and_territories.csv'), __dir__)) do |identifier,name|
-        names[identifier.sub('division', 'organization')] = name
-      end
-      names
-    end
-  end
-
   # @see https://github.com/okfn/publicbodies/blob/master/datapackage.json
   def public_bodies
     puts CSV.generate_line %w(
@@ -82,7 +72,7 @@ class OrganizationProcessor < Pupa::Processor
         self.class.jurisdiction_code,
         organization.contact_details.email,
         organization.contact_details.address,
-        organization.extras[:contact_point],
+        nil,
         nil,
         organization.sources[0].try{|source| source[:url]},
       ]
