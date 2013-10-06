@@ -2,6 +2,7 @@ require File.expand_path(File.join('..', 'utils.rb'), __dir__)
 
 class AB < OrganizationProcessor
   URL = 'http://www.servicealberta.ca/foip/directory-of-public-bodies.cfm'
+  @jurisdiction_code = 'CA-AB'
 
   def scrape_organizations
     id = 'ocd-organization/country:ca/province:ab'
@@ -49,4 +50,4 @@ class AB < OrganizationProcessor
   end
 end
 
-Pupa::Runner.new(AB, database: 'publicbodies', expires_in: 604800).run(ARGV) # 1 week
+run(AB)

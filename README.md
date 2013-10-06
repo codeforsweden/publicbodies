@@ -1,22 +1,16 @@
 # Public Bodies: Scrapers
 
-This repository contains scripts to scrape basic information for each public body within each provincial, territorial and federal government in Canada.
-
-Rake tasks can output this information to CSV, in formats compatible with:
+This repository contains scripts to scrape the basic information for each public body within each provincial, territorial and federal government in Canada. This information can be output to CSV, in formats compatible with:
 
 * [Alaveteli](http://www.alaveteli.org/), a [mySociety](http://www.mysociety.org/) access to information platform
-* [PublicBodies.org](http://publicbodies.org/), an [Open Knowledge Foundation](http://okfn.org/) project to have a URL for every part of government
 * [Nomenklatura](http://nomenklatura.okfnlabs.org/), an Open Knowledge Foundation data reconciliation service
+* [publicbodies.org](http://publicbodies.org/), an [Open Knowledge Foundation](http://okfn.org/) project to set a URL for every part of government
 
 Scrapers are written in [Pupa.rb](http://rdoc.info/gems/pupa), which requires Ruby 2.0.
 
-To run all scrapers:
+To run a scraper, for example:
 
-    bundle exec rake
-
-To run individual scrapers, run, for example:
-
-    ruby scrapers/ab.rb > data/ab.csv
+    ruby scrapers/ab.rb -h
 
 ## Bugs? Questions?
 

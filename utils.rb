@@ -20,11 +20,18 @@ module OrganizationHelper
   end
 
   def valid_postal_code?(string)
-    GovKit::CA::PostalCode.valid?(GovKit::CA::PostalCode.format_postal_code(string.to_s[POSTAL_CODE_RE]))
+    postal_code = string.to_s[POSTAL_CODE_RE]
+    if postal_code
+      GovKit::CA::PostalCode.valid?(GovKit::CA::PostalCode.format_postal_code(postal_code))
+    else
+      warn("Missing or invalid postal code in #{string}")
+    end
   end
 end
 
 class OrganizationProcessor < Pupa::Processor
+  class_attribute :jurisdiction_code
+
   include OrganizationHelper
 
   def names
@@ -36,6 +43,84 @@ class OrganizationProcessor < Pupa::Processor
       names
     end
   end
+
+  # @see https://github.com/okfn/publicbodies/blob/master/datapackage.json
+  def public_bodies
+    puts CSV.generate_line %w(
+      id
+      name
+      abbreviation
+      other_names
+      description
+      classification
+      parent_id
+      founding_date
+      dissolution_date
+      image
+      url
+      jurisdiction_code
+      email
+      address
+      contact
+      tags
+      source_url
+    )
+
+    organizations.each do |organization|
+      puts CSV.generate_line [
+        organization._id,
+        organization.name,
+        nil,
+        nil,
+        nil,
+        organization.classification,
+        organization.parent_id,
+        nil,
+        nil,
+        nil,
+        nil,
+        self.class.jurisdiction_code,
+        organization.contact_details.email,
+        organization.contact_details.address,
+        organization.extras[:contact_point],
+        nil,
+        organization.sources[0].try{|source| source[:url]},
+      ]
+    end
+  end
+
+  def nomenklatura
+    organizations.each do |organization|
+      puts CSV.generate_line [
+        organization.name,
+      ]
+    end
+  end
+
+  # @see https://github.com/mysociety/alaveteli/blob/905655c7a37b6159b1468ef455ae2a179b6f9069/app/models/public_body.rb#L422
+  def alaveteli
+    puts CSV.generate_line [
+      '#id',
+      'name',
+      'request_email',
+    ]
+
+    organizations.each do |organization|
+      puts CSV.generate_line [
+        organization._id,
+        organization.name,
+        organization.contact_details.email,
+      ]
+    end
+  end
+end
+
+def run(processor)
+  runner = Pupa::Runner.new(processor, database: 'publicbodies', expires_in: 604800) # 1 week
+  runner.add_action(name: 'alaveteli', description: "Output CSV in Alaveteli format")
+  runner.add_action(name: 'nomenklatura', description: "Output CSV in Nomenklatura format")
+  runner.add_action(name: 'public_bodies', description: "Output CSV in publicbodies.org format")
+  runner.run(ARGV)
 end
 
 OrganizationProcessor.add_scraping_task(:organizations)
