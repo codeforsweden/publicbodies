@@ -35,7 +35,7 @@ class OrganizationProcessor < Pupa::Processor
   include OrganizationHelper
 
   def documents
-    Pupa.session['organizations'].find(jurisdiction_code: self.class.jurisdiction_code)
+    Pupa.session['organizations'].find('extras.jurisdiction_code' => self.class.jurisdiction_code)
   end
 
   # @see https://github.com/okfn/publicbodies/blob/master/datapackage.json
@@ -63,6 +63,24 @@ class OrganizationProcessor < Pupa::Processor
     documents.each do |document|
       organization = Pupa::Organization.new(document)
 
+      email = organization.contact_details.email
+      if email.nil? && organization.extras[:contact_point]
+        email = organization.extras[:contact_point].find{|person|
+          person[:email]
+        }.try{|person|
+          person[:email]
+        }
+      end
+
+      address = organization.contact_details.address
+      if address.nil? && organization.extras[:contact_point]
+        address = organization.extras[:contact_point].find{|person|
+          person[:address]
+        }.try{|person|
+          person[:address]
+        }
+      end
+
       puts CSV.generate_line [
         organization._id,
         organization.name,
@@ -76,8 +94,8 @@ class OrganizationProcessor < Pupa::Processor
         nil,
         nil,
         self.class.jurisdiction_code,
-        organization.contact_details.email,
-        organization.contact_details.address,
+        email,
+        address,
         nil,
         nil,
         organization.sources[0].try{|source| source[:url]},
