@@ -9,7 +9,7 @@ class NB < OrganizationProcessor
   def scrape_organizations
     id = 'ocd-organization/country:ca/province:nb'
     parent = Pupa::Organization.new(_id: id, name: 'Government of New Brunswick')
-    Fiber.yield(parent)
+    dispatch(parent)
 
     paths = get(URL).xpath('//table[2]//a/@href').map(&:value) - [
       # These pages have the same public bodies as subpages.
@@ -57,7 +57,7 @@ class NB < OrganizationProcessor
           warn("Invalid postal code #{address[POSTAL_CODE_RE]} for #{organization.name}")
         end
 
-        Fiber.yield(organization)
+        dispatch(organization)
       end
     end
   end

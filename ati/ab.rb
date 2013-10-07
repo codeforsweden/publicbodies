@@ -8,7 +8,7 @@ class AB < OrganizationProcessor
   def scrape_organizations
     id = 'ocd-organization/country:ca/province:ab'
     parent = Pupa::Organization.new(_id: id, name: 'Government of Alberta')
-    Fiber.yield(parent)
+    dispatch(parent)
 
     doc = post(URL, 'fuseaction=SearchResults&first_name=&last_name=&pb_name=&pbtype=&city=')
     limit = doc.at_xpath('//b').text[/(?<=of )\d+/].to_i
@@ -46,7 +46,7 @@ class AB < OrganizationProcessor
           warn("Invalid postal code #{address[POSTAL_CODE_RE]} for #{organization.name}")
         end
 
-        Fiber.yield(organization)
+        dispatch(organization)
       end
     end
   end

@@ -8,7 +8,7 @@ class PE < OrganizationProcessor
   def scrape_organizations
     id = 'ocd-organization/country:ca/province:pe'
     parent = Pupa::Organization.new(_id: id, name: 'Government of Prince Edward Island')
-    Fiber.yield(parent)
+    dispatch(parent)
 
     get(URL).at_css('#content_2c').to_s.split(/<br>(?=<strong>)/).drop(1).each do |html|
       fragment = Nokogiri::HTML(html)
@@ -47,7 +47,7 @@ class PE < OrganizationProcessor
         warn("Invalid postal code #{address[POSTAL_CODE_RE]} for #{organization.name}")
       end
 
-      Fiber.yield(organization)
+      dispatch(organization)
     end
   end
 end

@@ -7,7 +7,7 @@ class BC < OrganizationProcessor
   def scrape_organizations
     id = 'ocd-organization/country:ca/province:bc'
     parent = Pupa::Organization.new(_id: id, name: names[id])
-    Fiber.yield(parent)
+    dispatch(parent)
 
     doc = get(URI.join(URL, '/gtds.cgi?Index=ByUnitHier'))
     doc.xpath('//table[@width="360"]//td//a').each do |org|
