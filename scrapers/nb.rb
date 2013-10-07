@@ -1,13 +1,14 @@
-require File.expand_path(File.join('..', '..', 'utils.rb'), __FILE__)
+require File.expand_path(File.join('..', 'utils.rb'), __dir__)
 
 class NB < OrganizationProcessor
+  self.jurisdiction_code = 'CA-NB'
+
   URL = 'http://www1.gnb.ca/cnb/DsS/index-e.asp'
-  # There may be multiple Co-ordinator blocks.
   END_RE = /(?=Co-ordinator:|Email:|Phone:|Fax:|\z)/
 
   def scrape_organizations
     id = 'ocd-organization/country:ca/province:nb'
-    parent = Pupa::Organization.new(_id: id, name: names[id])
+    parent = Pupa::Organization.new(_id: id, name: 'Government of New Brunswick')
     Fiber.yield(parent)
 
     paths = get(URL).xpath('//table[2]//a/@href').map(&:value) - [
@@ -27,19 +28,30 @@ class NB < OrganizationProcessor
         div.css('br').each{|br| br.replace "[BR]"}
         text = clean(div.text).gsub('[BR]', "\n").gsub(/ +(?=,|\n)/, '').gsub(/(?<=\n) +/, '')
         address = adr(text[/\A(.+?)#{END_RE}/m, 1])
-        href = table.at_xpath('.//a/@href')
-        contact_point = text[/Co-ordinator:(.+?)#{END_RE}/m, 1]
+        parts = text.split('Co-ordinator:')
 
         organization = Pupa::Organization.new
         organization.parent_id = parent._id
         organization.name = clean(table.at_xpath('.//u').text)
         organization.classification = clean(doc.at_xpath('//span[@class="Body_TxT_Black_Small"]').text.split('>').last)
         organization.add_contact_detail('address', address)
-        organization.add_contact_detail('email', href.value.sub('mailto:', '')) if href
-        organization.add_contact_detail('voice', tel(text[/Phone:(.+?)#{END_RE}/m, 1]))
-        organization.add_contact_detail('fax', tel(text[/Fax:(.+?)#{END_RE}/m, 1]))
         organization.add_source(url.to_s, note: 'Directory of Public Bodies')
-        organization.add_extra(:contact_point, clean(contact_point)) if contact_point
+        organization.add_extra(:jurisdiction_code, self.class.jurisdiction_code)
+
+        if parts.size == 1
+          organization.add_contact_detail('email', clean(text[/Email:(.+?)#{END_RE}/m, 1]))
+          organization.add_contact_detail('voice', tel(text[/Phone:(.+?)#{END_RE}/m, 1]))
+          organization.add_contact_detail('fax', tel(text[/Fax:(.+?)#{END_RE}/m, 1]))
+        else
+          contact_point = parts.drop(1).map do |part|
+            person = Pupa::Person.new(name: clean(part[/\A(.+?)#{END_RE}/m, 1]))
+            person.add_contact_detail('email', clean(part[/Email:(.+?)#{END_RE}/m, 1]))
+            person.add_contact_detail('voice', tel(part[/Phone:(.+?)#{END_RE}/m, 1]))
+            person.add_contact_detail('fax', tel(part[/Fax:(.+?)#{END_RE}/m, 1]))
+            person.to_h.except(:_id, :_type)
+          end
+          organization.add_extra(:contact_point, contact_point)
+        end
 
         unless valid_postal_code?(address)
           warn("Invalid postal code #{address[POSTAL_CODE_RE]} for #{organization.name}")
@@ -51,4 +63,4 @@ class NB < OrganizationProcessor
   end
 end
 
-Pupa::Runner.new(NB, database: 'publicbodies', expires_in: 604800).run(ARGV) # 1 week
+run(NB)

@@ -1,8 +1,9 @@
 require File.expand_path(File.join('..', 'utils.rb'), __dir__)
 
 class AB < OrganizationProcessor
-  URL = 'http://www.servicealberta.ca/foip/directory-of-public-bodies.cfm'
   self.jurisdiction_code = 'CA-AB'
+
+  URL = 'http://www.servicealberta.ca/foip/directory-of-public-bodies.cfm'
 
   def scrape_organizations
     id = 'ocd-organization/country:ca/province:ab'
@@ -38,6 +39,7 @@ class AB < OrganizationProcessor
         organization.add_contact_detail('voice', tel(text[/Phone:(.+?)(?:Fax:|Email:|\z)/, 1]))
         organization.add_contact_detail('fax', tel(text[/Fax:(.+?)(?:Email:|\z)/, 1]))
         organization.add_source(url.to_s, note: 'Directory of Public Bodies')
+        organization.add_extra(:jurisdiction_code, self.class.jurisdiction_code)
         organization.add_extra(:contact_point, [{name: clean(tds[0].text)}])
 
         unless valid_postal_code?(address)

@@ -1,8 +1,9 @@
 require File.expand_path(File.join('..', 'utils.rb'), __dir__)
 
 class PE < OrganizationProcessor
-  URL = 'http://www.gov.pe.ca/jps/index.php3?number=1024337&lang=E'
   self.jurisdiction_code = 'CA-PE'
+
+  URL = 'http://www.gov.pe.ca/jps/index.php3?number=1024337&lang=E'
 
   def scrape_organizations
     id = 'ocd-organization/country:ca/province:pe'
@@ -23,6 +24,7 @@ class PE < OrganizationProcessor
       organization.name = fragment.at_css('strong').text
       organization.add_contact_detail('address', address)
       organization.add_source(URL, note: 'Index of Departments, Divisions and Sections')
+      organization.add_extra(:jurisdiction_code, self.class.jurisdiction_code)
 
       if href[/\Amailto:/]
         organization.add_contact_detail('email', href.sub(/\Amailto:/, ''))
