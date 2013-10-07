@@ -1,11 +1,6 @@
-require 'csv'
-require 'active_support/inflector'
+require File.expand_path(File.join('..', '..', 'utils.rb'), __FILE__)
 
-require 'open-uri'
-require 'nokogiri'
-require 'rest_client'
-
-BASE_URL = 'http://novascotia.ca' 
+BASE_URL = 'http://novascotia.ca'
 BAD_LINKS = {
   'Advisory Council on the Status of Women' => nil,
   'Art Gallery of Nova Scotia' => 'http://www.artgalleryofnovascotia.ca/en/landing.aspx',
@@ -26,7 +21,7 @@ def get_contact_page(url)
   begin
     response = RestClient.get(url)
   rescue => e
-    if e.response.code == 404 
+    if e.response.code == 404
       if url.include? '.ns'
         get_contact_page(url.gsub('.ns',''))
       end
@@ -42,13 +37,13 @@ def get_address(page)
     if p.match /[A-Z][0-9][A-Z] [0-9][A-Z][0-9]/
       info = p.strip.split(/\n|\n\r|\r/)
       info.reject! {|x| !x.match(/[0-9]/)}
-      info = info.join(' ').strip 
+      info = info.join(' ').strip
       info.gsub!(/(?<=[A-Z][0-9][A-Z] [0-9][A-Z][0-9])(.*)/,'')
       if info.match(/PO|P.O./)
         info.gsub!(/(.*)(?=PO|P.O.)/,'')
       else
         info.gsub!(/\A(.*?)(?=\d|suite|ste)/i,'')
-      end 
+      end
       return info.squeeze(' ').strip
     end
   end
@@ -81,12 +76,12 @@ end
 CSV.open(File.expand_path(".",Dir.pwd)+'/data/'+'ns.csv', 'w') do |csv|
   csv << %w(title abbr key category parent parent_key description url jurisdiction jurisdiction_code source source_url address contact email tags created_at updated_at)
 
-  doc = Nokogiri::HTML(open(BASE_URL+'/government/gov_index.asp'))
+  doc = Nokogiri::HTML(Faraday.get(BASE_URL+'/government/gov_index.asp').body)
   doc.xpath('//div[@id="main"]/ul/li/a').each do |body|
     title = body.text
     category = body.xpath('ancestor::ul//preceding-sibling::h2[1]').text
     url = (body['href'].include? 'http') ? body['href'] : BASE_URL+body['href']
-    
+
     if BAD_LINKS.include? title
       if BAD_LINKS[title].nil?
         csv << new_record(body.text, category, nil, nil, nil)
@@ -101,8 +96,7 @@ CSV.open(File.expand_path(".",Dir.pwd)+'/data/'+'ns.csv', 'w') do |csv|
     if contact_url.empty?
       csv << new_record(body.text, category, url, nil, nil)
       next
-    end 
-    
+    end
 
     ## if there is a contact link on this page, try to find the url
     ## for the contacts page
@@ -117,10 +111,9 @@ CSV.open(File.expand_path(".",Dir.pwd)+'/data/'+'ns.csv', 'w') do |csv|
       page = Nokogiri::HTML(get_contact_page(contact_url))
       address = get_address(page)
     end
-    
+
     email = page.xpath('//a[contains(@href,"mailto:")]')
     email = (email.empty? || !email[0]['href'].include?('@')) ? nil : email[0]['href'].gsub('mailto:','').gsub(/\?.*/,'')
     csv << new_record(body.text, category, url, address, email)
   end
-    
 end

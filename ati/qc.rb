@@ -234,7 +234,7 @@ end
 
 CSV.open(File.expand_path(".",Dir.pwd)+'/data/'+'qc.csv', 'w') do |csv|
   csv << %w(title abbr key category parent parent_key description url jurisdiction jurisdiction_code source source_url address contact email tags created_at updated_at)
-  
+
   organizations.each do |organization|
     csv << [
       organization[:organization],                          #title
@@ -255,7 +255,6 @@ CSV.open(File.expand_path(".",Dir.pwd)+'/data/'+'qc.csv', 'w') do |csv|
       nil,                                                   #tags
       '5/17/13',                                            #created at
       Date.today.strftime('%-m/%-d/%y')                         #updated at
-    ]  
-  end  
-  
+    ]
+  end
 end

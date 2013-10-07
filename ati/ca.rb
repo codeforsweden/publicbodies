@@ -1,16 +1,10 @@
-require 'net/http'
-require 'csv'
+require File.expand_path(File.join('..', '..', 'utils.rb'), __FILE__)
 
-require 'open-uri'
-require 'nokogiri'
-
-require 'active_support/inflector'
-
-
+# @see http://sage-geds.tpsgc-pwgsc.gc.ca/cgi-bin/direct500/eng/TE?FN=index.html
+# @see http://eaves.ca/2013/09/13/thesis-question-idea-probing-power-promotions-in-the-public-service/
 BASE_URL = 'http://www.tbs-sct.gc.ca'
 
-
-doc = Nokogiri::HTML(open(BASE_URL+'/reports-rapports/cc-se/data-eng.asp'))
+doc = Nokogiri::HTML(Faraday.get(BASE_URL+'/reports-rapports/cc-se/data-eng.asp').body)
 
 crown_url = doc.at_xpath('//h4[contains(text(),"Crown corporations")]/following-sibling::ul//a[text()="CSV"]')['href']
 fed_inst_url = doc.at_xpath('//h4[contains(text(),"Federal institutions")]/following-sibling::ul//a[text()="CSV"]')['href']
@@ -71,6 +65,3 @@ CSV.open(File.expand_path(".",Dir.pwd)+'/data/'+'ca_federal.csv','w') do |csv|
     end
   end
 end
-  
-
-
