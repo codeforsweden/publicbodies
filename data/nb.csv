@@ -1,511 +1,511 @@
 id,name,abbreviation,other_names,description,classification,parent_id,founding_date,dissolution_date,image,url,jurisdiction_code,email,address,contact,tags,source_url
-022df662-8bfe-400c-8beb-ba8d3fff24b2,New Brunswick Emergency Measures Organization,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Argyle Place
+01f66542-c3e5-4bae-8bc0-d3b5f8aa73cb,Designation Appeal Board (Student Financial Assistance),,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Chestnut Complex
 P.O. Box 6000
 Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
-02621c04-f257-4bf0-96c3-7a8fba2b4ed7,Aroostook,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"383 Main Street
-Aroostook NB  E7H 2Z4",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-02a77e9e-e125-4c81-bbd3-fbf17c6586cc,RSC 12,,,,Regional Service Commissions,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"633 Main Street
-Woodstock NB  E7M 2C6",,,http://www1.gnb.ca/cnb/DsS/RegionalServiceCommission-e.asp?typyofPublicBodyID=4&category_E=Regional%20Service%20Commissions
-07704e49-a124-472e-bbb7-ae46b4f67c95,Meductic,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"320 Route 165
-Meductic NB  E6H 1J5",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-08182894-1b99-4085-be35-96b291a7e6da,Neguac,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"1175 Principale Street
-Neguac NB  E9G 1T1",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-09ffff68-ba45-4757-a769-35c730086f27,Stanley,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"20 Main Street
-Stanley NB  E6B 1A2",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-10fa2a31-485f-40c8-8d49-b7d455f44d3a,Private Investigators and Security Services Licensing Commission,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Argyle Place
-P.O. Box 6000
-Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
-11fc50f6-1f7e-45a7-9551-2de1d272bf36,District scolaire francophone nord-ouest,,,,"Schools, School Districts and District Education Councils(DECs)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"298 Martin Street
-Edmundston, N.-B. E3V 5E5",,,http://www1.gnb.ca/cnb/DsS/SchoolDistricts-e.asp?typyofPublicBodyID=4&category_E=School%20Districts
-1225cb6f-8615-4bc5-8f19-ef600755af3f,New Brunswick Industrial Development Board,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Centennial Building
-P.O. Box 6000
-Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
-1324c899-cf2c-4a1d-a5c7-d3445b061263,Bertrand,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"651-1 Acadiens Blvd
-Bertrand NB  E1W 1G5",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-15c9d9d4-e0d1-4b4f-8641-4b89e67a5c9f,Chipman,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"10 Civic Court
-Chipman NB  E4A 2H9",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-1a2b37c8-392b-4674-8930-9f8f0cbdcc79,Health,,,,Departments and Agencies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"HSBC Place
-P.O. Box 5100
-Fredericton NB  E3B 5G8",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=1
-1cd22d94-7a62-4875-9865-6d6e33146fcd,Campbellton,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"76 Water Street
-Campbellton NB  E3N 3G1",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-1f02c8f5-447a-4550-8897-1af8d619565c,Economic Development,,,,Departments and Agencies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Centennial Building
-P.O. Box 6000
-Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=1
-1f617137-5086-4f3a-a4ea-cba6d1852bce,New Brunswick Human Rights Commission,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Chestnut Complex
-P.O. Box 6000
-Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
-215fffdd-1263-48bc-9bbe-5d9e18d9ba46,Village Historique Acadien,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Centennial Building
-P.O. Box 6000
-Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
-28e33e3c-a288-4ea2-8c2c-43f71587d2ed,Anglophone School District West,,,,"Schools, School Districts and District Education Councils(DECs)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"1135 Prospect Street
-Fredericton NB  E3B 4Y4",,,http://www1.gnb.ca/cnb/DsS/SchoolDistricts-e.asp?typyofPublicBodyID=4&category_E=School%20Districts
-2adbc056-a8b8-43d9-9c07-a6072d7da445,Public Safety,,,,Departments and Agencies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Argyle Place
-P.O. Box 6000
-Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=1
-2ba3eb9b-18d5-4b5f-991e-51baa50f8888,Charlo,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"614 Chaleur Street
-Charlo NB  E8E 2G6",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-2eab57b7-b333-4652-95c3-60c1f1e34ee4,Gagetown,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"68 Babbit Street
-Gagetown NB  E5M 1C8",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-30c2331a-d6a5-460e-8fca-9686a212b499,Alma,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"8 School Street
-Alma NB  E4H 1L2",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-31d3f55c-c047-48ae-a04d-c2af1a54456b,Woodstock,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"824 Main Street
-Woodstock NB  E7M 2E8",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-32f4c449-5f63-47c7-8ed5-3c6a9a9281a3,Bath,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"161 School Street
-Bath NB  E7J 1C3",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-35e95c23-c302-478c-9963-1a5a6eb2ef60,Université de Moncton,,,,Universities,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"18 Antonine-Maillet Avenue
+02616609-3ef0-4593-97ec-fcb1b35d3c8e,Université de Moncton,,,,Universities,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"18 Antonine-Maillet Avenue
 Moncton NB  E1A 3E9",,,http://www1.gnb.ca/cnb/DsS/universities-e.asp?typyofPublicBodyID=4&category_E=Universities
-38ec573a-74b5-4c6f-81c5-d286cbb88d42,Drummond,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"1412 Tobique Road
-Drummond NB  E3Y 1H7",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-38f8c8e0-79aa-4703-8125-1dc217dcac56,Ambulance New Brunswick Inc.,,,,Other Health Care Bodies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"210 John Street
-Moncton NB  E1C 0B8",,,http://www1.gnb.ca/cnb/DsS/OtherHealthcareBodies-e.asp?typyofPublicBodyID=4&category_E=Other%20Healthcare%20bodies
-391b5302-c8f8-4d21-98fa-00d8bea9602e,Healthy and Inclusive Communities,,,,Departments and Agencies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Place 2000
-P.O. Box 6000
-Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=1
-3a79eb4e-110f-4e98-a895-242069f7f95c,"Workplace, Health, Safety and Compensation Commission (Worksafe NB)",,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"1 Portland Street
-P.O. Box 160
-Saint John NB  E2L 3X9",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
-3af5eb96-fc0a-4871-ba7c-8f50a2c5f4e4,Tide Head,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"6 Mountain Street
+026973a4-f55c-4ecc-a26e-d6c2e7ac4cd0,Tide Head,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"6 Mountain Street
 Tide Head NB  E3N 4J9",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-3c90763d-82be-4977-abe7-dfdc6f34a782,"Post-secondary Education, Training and Labour",,,,Departments and Agencies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Chestnut Complex
-P.O. Box 6000
-Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=1
-3f3dcd52-d4c7-4237-ac9f-19f6a8eaa8e4,Saint John,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"15 Market Square
-Saint John NB  E2L 4L1",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-43409a38-871c-4db1-b571-1d80fe043817,Anglophone School District North,,,,"Schools, School Districts and District Education Councils(DECs)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"78 Henderson Street
-Miramichi NB  E1N 2R7",,,http://www1.gnb.ca/cnb/DsS/SchoolDistricts-e.asp?typyofPublicBodyID=4&category_E=School%20Districts
-44246343-96e5-4b47-aeb4-cbe054352b78,Fredericton Police Force,,,,Municipal Police Forces,ocd-organization/country:ca/province:nb,,,,,CA-NB,reportrequests@fredericton.ca,"311 Queen Street
-Fredericton NB  E3B 1B1",,,http://www1.gnb.ca/cnb/DsS/MunicipalPoliceForces-e.asp?typyofPublicBodyID=4&category_E=Municipal%20Police%20Force
-445aaee9-81f1-4910-97dd-df2afae47bf6,Nackawic,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"115 Otis Drive
-Nackawic NB  E6G 2P1",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-46279e09-ec0e-47ea-b0a3-108e75a766be,Rothesay Regional Police Force,,,,Municipal Police Forces,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"126 Millennium Drive
-Quispamsis NB  E2E 6E6",,,http://www1.gnb.ca/cnb/DsS/MunicipalPoliceForces-e.asp?typyofPublicBodyID=4&category_E=Municipal%20Police%20Force
-479db4fd-ab80-4611-99d7-689517bc7cdb,RSC 8,,,,Regional Service Commissions,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"49 Winter Street
-Sussex NB  E4E 2W8",,,http://www1.gnb.ca/cnb/DsS/RegionalServiceCommission-e.asp?typyofPublicBodyID=4&category_E=Regional%20Service%20Commissions
-47a8754e-59de-41d1-bc8a-3e792d63af7a,Harvey,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"58 Hanselpacker Street
-Harvey NB  E6K 1A3",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-484be21a-5fef-4022-963c-bbdbaf5a1b37,Government Services,,,,Departments and Agencies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Marysville Place
-P.O. Box 6000
-Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=1
-493ac75f-d59f-4cbf-9309-131ee4cc6a13,N.B. Grain Commission,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Agricultural Research Station (Experimental Farm)
+05581fd3-f67c-4d9a-9d95-40db2c5825ff,New Brunswick Housing Corporation,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Sartain MacDonald Building
 P.O. Box 6000
 Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
-4a334e01-9f62-4252-97cf-1e7cefe354b8,Dalhousie,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"111 Hall Street
-Dalhousie NB  E8C 1X2",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-4aace0c5-3867-45c9-9b73-895a2abbbbad,District scolaire francophone sud,,,,"Schools, School Districts and District Education Councils(DECs)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"425 Champlain Street
-Dieppe, N.-B. E1A 1P2",,,http://www1.gnb.ca/cnb/DsS/SchoolDistricts-e.asp?typyofPublicBodyID=4&category_E=School%20Districts
-507d8418-966f-4c4b-b2c9-d35ce5bbeb2d,St. George,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"1 School Street
-St. George NB  E5C 3N2",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-521b3fca-528c-47f4-abcc-27fc53ffebb8,Norton,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"P.O. Box 335
-Norton NB  E5T 1J7",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-5484d962-7c53-4612-844b-147848db1a53,Grand Falls Police Force,,,,Municipal Police Forces,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"131 Pleasant Street
-Grand Falls NB  E3Z 1G6",,,http://www1.gnb.ca/cnb/DsS/MunicipalPoliceForces-e.asp?typyofPublicBodyID=4&category_E=Municipal%20Police%20Force
-56665288-4d07-47ac-8210-2f6468c6a05f,New Brunswick Highway Commission,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Kings Place
-P.O. Box 6000
-Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
-57acfbee-508b-43f5-b25d-b98a4e6c9585,New Brunswick Wildlife Council,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Hugh John Flemming Forestry Centre
-P.O. Box 6000
-Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
-59a08f09-dd28-4f9d-8cd6-9d66370aed49,M.O.R.E. SERVICES Inc.,,,,Departments and Agencies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Centennial Building
-P.O. Box 6000
-Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=1
-5ba48771-2964-41a3-a690-5cfc5a09c678,Rothesay,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"70 Hampton Road
-Rothesay NB  E2E 5L5",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-5d9608fb-2333-4e2b-91ff-778ba712a403,Private Occupational Training Corporation,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Chestnut Complex
-P.O. Box 6000
-Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
-5de4826c-7a8a-4963-8966-b63158d05672,Natural Resources,,,,Departments and Agencies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Hugh John Flemming Forestry Centre
-P.O. Box 6000
-Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=1
-61249ebf-25ad-4cdc-b69e-aa2a1da86c76,Réseau de Santé Horizon Health Network (formerly Regional Health Authority B),,,,Regional Health Authorities,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"155 Pleasant Street
-Miramichi NB  E1V 1Y3",,,http://www1.gnb.ca/cnb/DsS/RegionalHealthAuthorities-e.asp?typyofPublicBodyID=4&category_E=Regional%20Health%20Authorities
-61723f4a-0995-4282-9884-5ef072ede1d4,Office of the Premier,,,,Departments and Agencies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Centennial Building
-P.O. Box 6000
-Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=1
-61eaed6c-56be-42d6-9c39-e46c3ab005b0,Dorchester,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"4984 Main Street
-Dorchester NB  E4K 2Z1",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-640d3740-27dc-445e-8916-631ca4c34368,Anglophone School District East,,,,"Schools, School Districts and District Education Councils(DECs)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"1077 St. George Blvd., Suite 200
-Moncton NB  E1E 4C9",,,http://www1.gnb.ca/cnb/DsS/SchoolDistricts-e.asp?typyofPublicBodyID=4&category_E=School%20Districts
-6ad3dc2d-9fce-4a60-8096-9fc143d68b2f,RSC 10,,,,Regional Service Commissions,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"P.O. Box 70
-St. Stephen NB  E3L 2W9",,,http://www1.gnb.ca/cnb/DsS/RegionalServiceCommission-e.asp?typyofPublicBodyID=4&category_E=Regional%20Service%20Commissions
-6cc3ce9a-5e25-40f5-b7c5-bdcbe205e18a,Edmundston,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"7 Canada Road
-Edmundston NB  E3V 1T7",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-6d9fe558-05ee-4d4b-9407-9a1120c1b260,Minto,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"420 Pleasant Drive
-Minto NB  E4B 2T3",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-6fbb0e26-8ae1-49c5-ade4-e6bbe210abce,Richibucto,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"9235 Main Street
-Richibucto NB  E4W 4B4",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-6fd2e695-50db-4974-862a-f01f140a8fed,Assessment and Planning Appeal Board,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"City Centre
-P.O. Box 6000
-Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
-70a9308e-8dec-4a7f-9b77-a28736aefdfd,Service New Brunswick,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Westmorland Place
-P.O. Box 1998
-Fredericton NB  E3B 5G4",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
-78df51f9-e42d-4023-8f45-ae0bbbb4079c,St.Martin,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"73 Main Street
-St.Martin NB  E5R 1B4",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-79221f33-30fd-449b-b454-52104201cd9e,Sussex,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"524 Main Street
-Sussex NB  E4E 3E4",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-7a7727b3-9204-4db0-beb9-290da72aeee4,RSC 5,,,,Regional Service Commissions,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"1773 Water Street
-Miramichi NB  E1N 1B2",,,http://www1.gnb.ca/cnb/DsS/RegionalServiceCommission-e.asp?typyofPublicBodyID=4&category_E=Regional%20Service%20Commissions
-8132c10c-8fd1-4112-bbb3-149ccd88ac39,McAdam,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"146 Saunders Road
-McAdam NB  E6J 1L2",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-82683d41-9acc-44af-87f4-015c468209e4,Regional Development Corporation,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"RDC Building
-P.O. Box 428
-Fredericton NB  E3B 5R4",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
-85beec1e-2876-445e-a4c6-cd4895703d91,Anglophone School District South,,,,"Schools, School Districts and District Education Councils(DECs)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"490 Woodward Avenue
-Saint John NB  E2K 5N3",,,http://www1.gnb.ca/cnb/DsS/SchoolDistricts-e.asp?typyofPublicBodyID=4&category_E=School%20Districts
-873d6ae9-6981-4010-927d-91aa6af240de,Belledune,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"2330 Main Street
-Belledune NB  E8G 2X9",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-8ad3466c-ced2-46e2-98ac-f26edf208d0a,Shediac,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"290 Main Street
-Shediac NB  E4P 2E3",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-8bd20cf3-5a2e-437d-8c25-04624834b0b0,Moncton,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"655 Main Street
-Moncton NB  E1C 1E8",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-8c49a27f-7027-456e-950e-116b4c368e93,"Agriculture, Aquaculture and Fisheries",,,,Departments and Agencies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Agricultural Research Station (Experimental Farm)
-P.O. Box 6000
-Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=1
-8d82d7b4-4917-42e1-8223-57567f4bcafe,Hartland,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"31 Orser Street
-Hartland NB  E7P 1R4",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-960b6a40-aca7-457b-8fd5-7454bf364469,Canterbury,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"199 Main Street
-Canterbury NB  E6H 1M6",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-9b0ad8f1-850a-4011-9f5d-63aab2c98bc5,Designation Appeal Board (Student Financial Assistance),,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Chestnut Complex
-P.O. Box 6000
-Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
-9e23acd8-33f9-4773-b032-d436514f2934,Oromocto,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"4 Doyle Drive
-Oromocto NB  E2V 2V3",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-a3c735b1-2b08-4de1-ae73-ebb46f066fac,RSC 2,,,,Regional Service Commissions,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"68A Water Street
-Campbellton NB  E3N 1B1",,,http://www1.gnb.ca/cnb/DsS/RegionalServiceCommission-e.asp?typyofPublicBodyID=4&category_E=Regional%20Service%20Commissions
-a69f9c9b-878e-4546-9776-8223bf93b21a,Hampton,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"27 Centennial Street
-Hampton NB  E5N 8H1",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-a7edeff7-80e0-4477-b595-943e77030fe3,Fort La Tour Development Authority,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"243 Metcalf Street
-Saint John NB  E2K 1K7",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
-a995a103-1183-4f3b-a4ce-b830feed6b50,Quispamsis,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"12 Landing Court
-Quispamsis NB  E2E 4Z4",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-a9975e59-03f2-4e9b-95d2-2cb8cdaec091,Sackville,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"P.O. Box 6191
-Sackville NB  E4L 1G6",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-aab23e74-fff8-450e-a137-472ab132ad3d,Finance,,,,Departments and Agencies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Centennial Building
-P.O. Box 6000
-Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=1
-aaf2bae0-0041-47af-bbec-ab0f6c9041a1,New Brunswick Industrial Development Appeal Board,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Centennial Building
-P.O. Box 6000
-Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
-ada114fb-8937-45e8-96f2-1325bc3cd72c,Caraquet,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"10 Colisée Street
-Caraquet NB  E1W 1B7",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-af2c6fba-070b-4c57-b26e-303737c735ef,Miramichi Police Force,,,,Municipal Police Forces,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Beaverbrook Centre
-1820 Water Street
-Miramichi NB  E1N 1B7",,,http://www1.gnb.ca/cnb/DsS/MunicipalPoliceForces-e.asp?typyofPublicBodyID=4&category_E=Municipal%20Police%20Force
-b3ad97f4-91c0-452e-88ee-7ab0859e0ad2,Nigadoo,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"385 Principale Street
-Nigadoo NB  E8K 3R6",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-b8711ec1-7cb5-4f81-bdbd-9238b27990f8,Edmundston Police Force,,,,Municipal Police Forces,ocd-organization/country:ca/province:nb,,,,,CA-NB,police@edmundston.ca,"15 de l'Église Street
-Edmundston NB  E3V 1J3",,,http://www1.gnb.ca/cnb/DsS/MunicipalPoliceForces-e.asp?typyofPublicBodyID=4&category_E=Municipal%20Police%20Force
-bba949d1-2764-4eb1-a353-415c483b0edf,New Brunswick Provincial Capital Commission,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"103 Church Street
-Fredericton NB  E3B 4C8",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
-be366241-2c5a-4b0d-9640-35ab37895ba0,Doaktown,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"8 Miramichi Street
-Doaktown NB  E9C 1C8",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-c10eae7f-a8bc-48a8-86c0-a4417fdbfaba,Rexton,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"79 Main Street
-Rexton NB  E4W 1Z9",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-c14a82ae-e6b6-4af0-80e6-6ce0b3fde884,Bathurst,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"150 George Street
-Bathurst NB  E2A 1B5",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-c1b7e750-abea-48f5-90df-2df409bb807b,Salisbury,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"56 Salisbury Street
-Salisbury NB  E4J 3E3",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-c1cf3ed4-a8c4-4159-97c0-7f9a8d0f1005,Social Development,,,,Departments and Agencies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Sartain MacDonald Building
-P.O. Box 6000
-Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=1
-c531a6fb-f9a3-4509-a469-d6f6eb34906a,New Brunswick Public Libraries Board,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Chestnut Complex
-P.O. Box 6000
-Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
-c6f3eda6-78c9-4e75-a874-7244a79498e7,Miramichi,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"141 Henry Street
+058f1a14-b8c6-408d-865b-ec61ebcdbbf5,Blackville,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"12 South Bartholomew Road
+Blackville NB  E9B 1N2",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+059399e6-26ae-4e07-af85-5d3ad8d4bae1,Charlo,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"614 Chaleur Street
+Charlo NB  E8E 2G6",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+05bdfaf0-b4dd-4f36-bd76-27765fb05d1b,Réseau de Santé Vitalité Health Network (formerly Regional Health Authority A),,,,Regional Health Authorities,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"275 Main Street
+Bathurst NB  E2A 1A9",,,http://www1.gnb.ca/cnb/DsS/RegionalHealthAuthorities-e.asp?typyofPublicBodyID=4&category_E=Regional%20Health%20Authorities
+0725c8ce-f196-48c4-b537-e89565610ffe,RSC 12,,,,Regional Service Commissions,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"633 Main Street
+Woodstock NB  E7M 2C6",,,http://www1.gnb.ca/cnb/DsS/RegionalServiceCommission-e.asp?typyofPublicBodyID=4&category_E=Regional%20Service%20Commissions
+0b1b68d6-8057-4aa6-b0bb-411e88427f24,Miramichi,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"141 Henry Street
 Miramichi NB  E1V 2N5",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-cb56aaf9-7095-4eb3-b218-99084510c1ce,Executive Council Office,,,,Departments and Agencies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Centennial Building
+19c62ed7-591c-42a0-b616-4db58be0fc0c,RSC 10,,,,Regional Service Commissions,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"P.O. Box 70
+St. Stephen NB  E3L 2W9",,,http://www1.gnb.ca/cnb/DsS/RegionalServiceCommission-e.asp?typyofPublicBodyID=4&category_E=Regional%20Service%20Commissions
+0bdbf9d6-1f41-48f0-9ea3-4f4d5927e6c4,Alma,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"8 School Street
+Alma NB  E4H 1L2",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+14e6dda1-cb23-4e7b-b0cb-bd0e3a15ef6e,Saint John,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"15 Market Square
+Saint John NB  E2L 4L1",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+1564e4b0-d961-4689-8e26-808d54b1b233,BNPP Regional Police Force,,,,Municipal Police Forces,ocd-organization/country:ca/province:nb,,,,,CA-NB,bnpp@nb.aibn.com,"398 Principale Street
+Nigadoo NB  E8K 3M8",,,http://www1.gnb.ca/cnb/DsS/MunicipalPoliceForces-e.asp?typyofPublicBodyID=4&category_E=Municipal%20Police%20Force
+164f1e34-60bf-43a8-b409-ba09582e7808,Perth-Andover,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"1131 West Riverside Drive
+Perth-Andover NB  E7H 5G5",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+1690e540-808f-415a-8a76-7ed4fbe46233,Richibucto,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"9235 Main Street
+Richibucto NB  E4W 4B4",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+16ed31db-00a6-4949-b2fa-0ccc35f7695f,Beresford,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"855 Principale Street
+Beresford NB  E8K 1T3",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+1ab92875-1007-497c-ae42-cf6b7098297b,Campobello Island,,,,Rural Communities,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"924 Route 774
+Welshpool NB  E5E 1B1",,,http://www1.gnb.ca/cnb/DsS/RuralCommunities-e.asp?typyofPublicBodyID=4&category_E=Rural%20Communities
+1b96c872-b918-4aa4-84f8-6d309712605a,St. George,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"1 School Street
+St. George NB  E5C 3N2",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+1c27e200-6369-48a7-a7d8-2261ba90e5e8,Economic Development,,,,Departments and Agencies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Centennial Building
 P.O. Box 6000
 Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=1
-cde2a735-8d8d-4f42-a037-c7f2cb9a5094,New Brunswick Insurance Board,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Saint John Mercantile Centre
-55 Union Street
-Saint John NB  E2L 5B7",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
-cea28a4e-8331-4e8d-8425-124fb96a54c5,Environment and Local Government,,,,Local Service Districts (LSDs),ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Marysville Place
-P.O. Box 6000
-Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/LocalServiceDistricts-e.asp?typyofPublicBodyID=4&category_E=Local%20Service%20Districts%20(LSDs)
-dadbdc47-8995-4831-8e6d-c8725ad6f489,Dieppe,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"333 Acadie Avenue
-Dieppe NB  E1A 1G9",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-dbe366a6-b56b-4faa-8bb0-857c7f8c03fc,New Brunswick Legal Aid Services Commission,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"356 Queen Street
-Fredericton NB  E3B 1B2",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
-e0824c1f-f08d-411f-a6da-bce2fd577f44,New Brunswick Investment Management Corporation,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"440 King Street
-Fredericton NB  E3B 5H8",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
-e0a2d6a8-ec10-46a4-a899-bb381858637b,Bouctouche,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"211 Irving Blvd
-Bouctouche NB  E4S 3K6",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-ed048ca9-ffd9-4810-aabc-0001d5b16b07,University of New Brunswick,,,,Universities,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Sir Howard Douglas Hall, Room 4
-P.O. Box 4400
-Fredericton NB  E3B 5A3",,,http://www1.gnb.ca/cnb/DsS/universities-e.asp?typyofPublicBodyID=4&category_E=Universities
-f050885b-6445-4a88-b88b-be000c6c3383,Salvage Dealers Licensing Commission,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Argyle Place
-P.O. Box 6000
-Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
-f1e756ea-24dc-47be-ae75-41c16651f368,Petitcodiac,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"63 Main Street
-Petitcodiac NB  E4Z 6H4",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-f29e915d-cd15-4987-a1eb-2f206ef67d51,Centre Communautaire Sainte- Anne,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Centre Sainte-Anne
-715 Priestman Street
-Fredericton NB  E3B 5W7",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
-f72c4787-d110-4261-a224-26b4dfb28784,Collège Communautaire du Nouveau-Brunswick (CCNB),,,,Community Colleges,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"P.O. Box 700
-Bathurst NB  E2A 3Z6",,,http://www1.gnb.ca/cnb/DsS/communityColleges-e.asp?typyofPublicBodyID=4&category_E=Community%20Colleges
-f9e7d54e-621f-4834-98f2-c6e89bfc6e2b,New Brunswick Museum,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"277 Douglas Avenue
-Saint John NB  E2K 1E5",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
-fa7792ab-da29-4180-a09e-43d1033ae76a,Cap-Pelé,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"33 St.-André Road
-Cap-Pelé NB  E4N 1Z4",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-fb262465-1867-49a4-90b9-a1292ab8ba0e,Environment and Local Government,,,,Departments and Agencies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Marysville Place
-P.O. Box 6000
-Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=1
-fb2e4af4-9bbc-4578-b06b-acf34955e718,RSC 1,,,,Regional Service Commissions,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"551 Main Street
-Grand Falls NB  E3Z 2W4",,,http://www1.gnb.ca/cnb/DsS/RegionalServiceCommission-e.asp?typyofPublicBodyID=4&category_E=Regional%20Service%20Commissions
-fd6293be-fd7b-4dfc-8194-93f23910db76,Tracy,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"4435 Heritage Drive
-Tracy NB  E5L 1C1",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-fea5566b-4c80-45c9-8cb1-35d43eb3eace,RSC 7,,,,Regional Service Commissions,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"1222 Main Street
-Moncton NB  E1C 1H6",,,http://www1.gnb.ca/cnb/DsS/RegionalServiceCommission-e.asp?typyofPublicBodyID=4&category_E=Regional%20Service%20Commissions
-ff6e659a-35e8-46dc-9342-7353e12c34f6,Clair,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"809E Principale Street
-Clair NB  E7A 2H7",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-17a16670-cc0b-4712-92a8-5ccfc509a94e,Woodstock Police Force,,,,Municipal Police Forces,ocd-organization/country:ca/province:nb,,,,,CA-NB,police.chief@town.woodstock.nb.ca,"822 Main Street
-Woodstock NB  E7M 2E8",,,http://www1.gnb.ca/cnb/DsS/MunicipalPoliceForces-e.asp?typyofPublicBodyID=4&category_E=Municipal%20Police%20Force
-f1566a49-9280-4926-b619-30f39a1c39c5,Balmoral,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"1447 des Pionniers Avenue
-Balmoral NB  E8E 2W7",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-063efc98-91af-4b0c-bb90-0bcec468934b,Tracadie-Sheila,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"3620 Principale Street
-Tracadie-Sheila NB  E1X 1G5",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-0878a68b-9358-4a32-aab6-57c0cc4bedb4,Saint-Louis-de-Kent,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"10511 Principale Street
-Saint-Louis-de-Kent NB  E4X 1E6",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-e6e9927f-e349-4f67-a989-a223f7fc8b79,Intergovernmental Affairs,,,,Departments and Agencies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Centennial Building
-P.O. Box 6000
-Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=1
-fe1fa8c3-1db1-429f-bc82-8a93660e3896,Human Resources,,,,Departments and Agencies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Centennial Building
-P.O. Box 6000
-Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=1
-a2c1ab3d-9af4-41b5-8f0a-3ad4a901f219,Atholville,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"247 Notre Dame Street
-Atholville NB  E3N 4T1",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-0c59df08-870a-4d4d-b22b-53d909521446,FacilicorpNB,,,,Other Health Care Bodies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Brunswick Square
-1 Germain Street
-Saint John NB  E2L 4V1",,,http://www1.gnb.ca/cnb/DsS/OtherHealthcareBodies-e.asp?typyofPublicBodyID=4&category_E=Other%20Healthcare%20bodies
-0697fbeb-0b13-4c66-9be5-b71cc277d471,New Brunswick Liquor Corporation,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"P.O. Box 20787
-Fredericton NB  E3B 5B8",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
-ceb3ad41-17a3-46f2-be4f-763f7e4242fc,Kedgwick,,,,Rural Communities,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"114 Notre Dame Road
-Kedgwick NB  E8B 1H8",,,http://www1.gnb.ca/cnb/DsS/RuralCommunities-e.asp?typyofPublicBodyID=4&category_E=Rural%20Communities
-53f01b33-4d4d-4274-a4c2-a2ddf9b6d194,RSC 4,,,,Regional Service Commissions,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"1040-4 du Parc Street
-Paquetville NB  E8R 1J7",,,http://www1.gnb.ca/cnb/DsS/RegionalServiceCommission-e.asp?typyofPublicBodyID=4&category_E=Regional%20Service%20Commissions
-6c51698d-47f4-46d4-ab67-abd56688cf0a,Kings Landing Corporation,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Centennial Building
-P.O. Box 6000
-Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
-e64e9526-73c0-4ff4-96ac-5c74bf17a4f3,RSC 9,,,,Regional Service Commissions,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Place 400
+1e189e0f-1df1-4303-85f6-32eb0bac75fd,Le Goulet,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"1295 Principale Street
+Le Goulet NB  E8S 2E9",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+1f13d90c-c914-4f71-b9a9-9b58ccf2c7d2,St-Isidore,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"3906 Fondateurs Blvd.
+St-Isidore NB  E8M 1C2",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+216f2eb0-8456-4266-a281-f56416e79bbd,Hartland,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"31 Orser Street
+Hartland NB  E7P 1R4",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+22a95107-d42a-40ce-9bfc-435638111fdf,Grande-Anse,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"393 Acadie Street
+Grande-Anse NB  E8N 1E2",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+22aade24-9c7a-4771-bdd9-329c4c6aa5a3,Edmundston Police Force,,,,Municipal Police Forces,ocd-organization/country:ca/province:nb,,,,,CA-NB,police@edmundston.ca,"15 de l'Église Street
+Edmundston NB  E3V 1J3",,,http://www1.gnb.ca/cnb/DsS/MunicipalPoliceForces-e.asp?typyofPublicBodyID=4&category_E=Municipal%20Police%20Force
+22f73f5b-1cfa-4fd5-a77b-cf1aaa550c89,RSC 9,,,,Regional Service Commissions,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Place 400
 400 Main Street
 Saint John NB  E2K 4N5",,,http://www1.gnb.ca/cnb/DsS/RegionalServiceCommission-e.asp?typyofPublicBodyID=4&category_E=Regional%20Service%20Commissions
-bfe68448-78e3-4c6c-a8ac-553cd4031eab,Petit-Rocher,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"582 Principale Street
-Petit-Rocher NB  E8J 1S5",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-870bd225-d96b-477b-ae2d-203ea75e8df8,Energy and Utilities Board,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"P.O. Box 5001
-Saint John NB  E2L 4Y9",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
-1731771b-4178-462d-9119-e9e4b25f4f11,Le Goulet,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"1295 Principale Street
-Le Goulet NB  E8S 2E9",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-adf64cd1-3766-4171-8c01-bd95cc7c7eb0,"Tourism, Heritage and Culture",,,,Departments and Agencies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Centennial Building
-P.O. Box 6000
-Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=1
-8195b276-b095-47ab-8c04-b8546bf53a74,Saint John Police Force,,,,Municipal Police Forces,ocd-organization/country:ca/province:nb,,,,,CA-NB,police@saintjohn.ca,"P.O. Box 1971
-Saint John NB  E2L 4L1",,,http://www1.gnb.ca/cnb/DsS/MunicipalPoliceForces-e.asp?typyofPublicBodyID=4&category_E=Municipal%20Police%20Force
-552a17f9-fd20-40c4-842e-c2a9059baedc,La Francophonie,,,,Departments and Agencies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Centennial Building
-P.O. Box 6000
-Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=1
-903220b6-a221-4d31-81b8-ce665585e176,Energy and Mines,,,,Departments and Agencies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Brunswick Square
-1 Germain Street
-Saint John NB  E2L 4V1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=1
-f764aa30-d4c8-4f71-ae0c-f0fc14bebdf3,Upper Miramichi,,,,Rural Communities,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"6094 Route 8
-Boiestown NB  E6A 1M7",,,http://www1.gnb.ca/cnb/DsS/RuralCommunities-e.asp?typyofPublicBodyID=4&category_E=Rural%20Communities
-bee9a3e7-0d6a-44ee-b33d-71519cb51ac7,Blacks Harbour,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"65 Wallace Cove Road
-Blacks Harbour NB  E5H 1G9",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-435b68c7-65d1-4295-8f73-bc6c85c7ec0c,Saint Andrews,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"212 Water Street
-Saint Andrews NB  E5B 1B4",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-40a42327-2c1d-4a43-baaf-477d3e9c1f98,Beaubassin-Est/East,,,,Rural Communities,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"1709 chemin 133
-Grand-Barachois NB  E4P 8V1",,,http://www1.gnb.ca/cnb/DsS/RuralCommunities-e.asp?typyofPublicBodyID=4&category_E=Rural%20Communities
-5b216172-c20c-4a4c-ba30-37a563e99ada,Algonquin Properties Ltd.,,,,Schedule A,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Kings Place
-P.O. Box 6000
-Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=3
-0f7169e5-73d5-45d9-b1b0-c5ffe90362c2,Saint-Anne-de-Madawaska,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"75 Principale Street
-Saint-Anne-de-Madawaska NB  E7E 1A8",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-7152853f-ab83-47be-8079-6260f61551b0,Sainte-Marie-Saint-Raphaël,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"1541 Mer Blvd.
-Sainte-Marie-Saint-Raphaël NB  E8T 1P5",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-fe8728d1-09a1-480a-bae5-7dc86f174501,Grande-Anse,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"393 Acadie Street
-Grande-Anse NB  E8N 1E2",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-967e8599-a620-46d7-9de6-35f565267e8e,Maisonnette,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"1512 Châtillon Street
-Maisonnette NB  E8N 1S4",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-769ad8d6-c918-4339-ac6a-31aa9f8dfce0,Senior and Healthy Aging Secretariat,,,,Departments and Agencies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Sartain MacDonald Building
-P.O. Box 6000
-Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=1
-f8c11736-dc8b-4daf-bbdc-b6e282b34214,New Brunswick Fisheries and Aquaculture Development Board,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Agricultural Research Station (Experimental Farm)
+26aea76e-dc4f-483a-a7e5-6289f7c1f52c,RSC 1,,,,Regional Service Commissions,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"551 Main Street
+Grand Falls NB  E3Z 2W4",,,http://www1.gnb.ca/cnb/DsS/RegionalServiceCommission-e.asp?typyofPublicBodyID=4&category_E=Regional%20Service%20Commissions
+26e41ff5-66e1-4d19-bf07-c677fab406a8,Labour and Employment Board,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Chestnut Complex
 P.O. Box 6000
 Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
-6b7f1f5d-613a-47d1-9813-afb65744cf68,Grand Bay-Westfield,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"609 River Valley Drive
-Grand Bay-Westfield NB  E5K 4V3",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-1d00db8f-0fc6-4f32-93ea-950dfdbece40,Financial and consumer services commission,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"85 Charlotte Street
-Saint John NB  E2L 2J2",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
-36a86c31-327d-457d-a666-44b8d6b90781,RSC 3,,,,Regional Service Commissions,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Complexe Madisco
-702 Principale Street
-Petit-Rocher NB  E8R 1J7",,,http://www1.gnb.ca/cnb/DsS/RegionalServiceCommission-e.asp?typyofPublicBodyID=4&category_E=Regional%20Service%20Commissions
-b0d6795d-fe6e-496f-bee4-dd9744f12a04,Saint-André,,,,Rural Communities,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"438 Levesque Street
-Saint-André NB  E3Y 3C7",,,http://www1.gnb.ca/cnb/DsS/RuralCommunities-e.asp?typyofPublicBodyID=4&category_E=Rural%20Communities
-d5a375cd-a533-4d3a-b097-8d20f841a3cc,Cambridge-Narrows,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"6 Municipal Lane
-Cambridge-Narrows NB  E4C 4P4",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-e2fd6a67-4680-4340-8874-8861fc3513a8,Recycle New Brunswick,,,,Schedule A,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"P.O. Box 308
-Fredericton NB  E3B 4Y9",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=3
-60d2bcb6-1759-42f0-ad3a-ccfbed057ff4,Fredericton,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"397 Queen Street
-Fredericton NB  E3B 4Y7",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-549c4d7b-b1d4-4825-826e-bba27e878e70,Eel River Crossing,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"20 Savoie Street
-Eel River Crossing NB  E8E 1T8",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-2e86b939-6cfe-456f-98e1-50c4c8ce56fc,Millville,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"39 Howland Ridge Road
-Millville NB  E6E 1Y3",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-6203a663-681a-4d44-8d82-bdbcd93730c7,Pointe-Verte,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"375 Principale Street
-Pointe-Verte NB  E8J 2S8",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-bfdbea4e-6799-4f2c-ba3f-26f210a207f5,Transportation & Infrastructure,,,,Departments and Agencies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Kings Place
-P.O. Box 6000
-Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=1
-76b6ed3e-ad04-4c15-89da-772b777733d5,New Brunswick Research and Productivity Council,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Centennial Building
-P.O. Box 6000
-Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
-dc85741b-c863-4328-bb10-e757d4690c70,Saint-Hilaire,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"2190 Central Street
-Saint-Hilaire NB  E3V 4W1",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-c6a4b9f0-b565-480d-a71f-c6ebac325cd6,Grand Manan,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"4-1021 Route 776
-Grand Manan NB  E5G 4E5",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-490439f4-b21b-40ee-829a-e02c485994ab,Minimum Wage Board,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Chestnut Complex
-P.O. Box 6000
-Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
-4b21a4a4-29b3-4d86-8abd-6fecf39d74c9,New Brunswick Internal Services Agency,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Marysville Place
-P.O. Box 6000
-Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
-856771ec-9c22-4a6b-8583-ba718aff0557,Education & Early Childhood Development,,,,Departments and Agencies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Place 2000
-P.O. Box 6000
-Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=1
-dba69e4a-3f0f-4cd4-9f5b-62854e78c522,Grand-Sault / Grand Falls,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"131 Pleasant Street
-Grand Falls NB  E3Z 1G6",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-0b24c619-6934-40f1-bbb4-bb92464ac883,Riverside-Albert,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"5823 King Street
-Riverside-Albert NB  E4H 4B4",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-c6ff32c9-6f85-4ecb-8e63-4736eb7cddb4,Paquetville,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"1094 du Parc Street
-Paquetville NB  E8R 1J4",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-52f40387-3a8d-4275-aa44-a7ba4e7e5a73,Florenceville-Bristol,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"19 Station Road
-Florenceville-Bristol NB  E7L 3J8",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-641f19b6-02e0-493c-b10d-c957c7372f8a,RSC 11,,,,Regional Service Commissions,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"860 Prospect Street
-Fredericton NB  E3B 2T8",,,http://www1.gnb.ca/cnb/DsS/RegionalServiceCommission-e.asp?typyofPublicBodyID=4&category_E=Regional%20Service%20Commissions
-79550be6-3a10-4c5c-8463-851a0acb2bf2,New Brunswick Community College (NBCC),,,,Community Colleges,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"284 Smythe Street
-Fredericton NB  E3B 3C9",,,http://www1.gnb.ca/cnb/DsS/communityColleges-e.asp?typyofPublicBodyID=4&category_E=Community%20Colleges
-a1b97ca7-2cdc-4d48-9753-1ffdfd4c931c,Justice and Attorney General,,,,Departments and Agencies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Centennial Building
-P.O. Box 6000
-Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=1
-6e59d885-895a-4504-b629-56da4b74ac3d,Bathurst Police Force,,,,Municipal Police Forces,ocd-organization/country:ca/province:nb,,,,,CA-NB,city.police@bathurst.ca,"285 King Avenue
-Bathurst NB  E2A 1N9",,,http://www1.gnb.ca/cnb/DsS/MunicipalPoliceForces-e.asp?typyofPublicBodyID=4&category_E=Municipal%20Police%20Force
-c0367561-e063-48f1-834c-36f9ffdb44e2,Fredericton Junction,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"102 Wilsey Road
-Fredericton Junction NB  E5L 1W7",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-2a2fe2d5-9635-4cd1-a4ec-663ff717caf6,New Brunswick Farm Products Commission,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Agricultural Research Station (Experimental Farm)
-P.O. Box 6000
-Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
-ad03e45d-2189-4f52-a0c8-f8ddadf52cbe,Saint-Quentin,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"10 Deschênes Street
-Saint-Quentin NB  E8A 1M1",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-2b79a81e-95fd-4527-b1d8-78e0307640c0,Premier's Council on the Status of Disabled Persons,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Centennial Building
-P.O. Box 6000
-Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
-7a48ba12-ac8e-4e2a-8d07-d95037346003,Beaverbrook Art Gallery - Board of Governors,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"P.O. Box 605
-Fredericton NB  E3B 5A6",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
-7574441d-e58a-4ea9-9acc-803d9116529c,Regional Family Income Security Appeal Board,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Sartain MacDonald Building
-P.O. Box 6000
-Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
-ccaecf06-41af-4f4d-9dd1-32211e3225fb,Perth-Andover,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"1131 West Riverside Drive
-Perth-Andover NB  E7H 5G5",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-b2876038-1901-4578-95c0-73c72b0eda04,Riverview,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"30 Honour House Court
-Riverview NB  E1B 3Y9",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-1535f18c-d22d-4f3c-9392-1490ce39f52a,NB Power,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"P.O. Box 2010
-515 King Street
-Fredericton NB  E3B 4X1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
-4c3d49a2-8642-4ac0-8089-1ed9aeb0645f,Saint-Léolin,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"117 Prés Street
-Saint-Léolin NB  E8N 2P9",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-a249b161-6c4c-4ccb-b8a4-4ae34f3c999a,St-Isidore,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"3906 Fondateurs Blvd.
-St-Isidore NB  E8M 1C2",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-0aa1ed4b-e3d0-4fa8-98e0-824b01bfbd28,Rogersville,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"28 École Street
-Rogersville NB  E4Y 1V7",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-b8bf22b5-7305-4ea7-8b28-8f7c3afd09f5,Baker-Brook,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"3677 Principale Street
-Baker-Brook NB  E7A 1V3",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-ae3e4502-ce19-4dc4-8314-a314677c41c7,Memramcook,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"540 Centrale Street
-Memramcook NB  E4K 3S6",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-f9d7f148-5681-42d9-b129-88c2fd276267,Aboriginal Affairs Secretariat,,,,Departments and Agencies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Kings Place
-P.O. Box 6000
-Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=1
-f054c4f1-f2b2-475c-b53f-7bdbdd8de201,Saint-Antoine,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"4599 Principale Street
-Saint-Antoine NB  E4V 1P8",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-ce0b4546-3f9b-458b-b504-e361af3e641b,New Brunswick Electric Finance Commission,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Centennial Building
-P.O. Box 6000
-Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
-a097f404-6440-4088-bb5f-7eec8b102872,Mount Allison University,,,,Universities,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"65 York Street
-Sackville NB  E4L 1E4",,,http://www1.gnb.ca/cnb/DsS/universities-e.asp?typyofPublicBodyID=4&category_E=Universities
-c40aa723-be77-4efc-b07d-e924ec7d3d61,Bas-Caraquet,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"8185 St-Paul Street
-Bas-Caraquet NB  E1W 6C4",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-e86a6efb-c29c-4536-8b1f-c35365f095ee,Lac-Baker,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"69 De la Pointe Road
-Lac-Baker NB  E7A 1J1",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-de29c0f8-23a8-4184-bf68-5001a56860e6,Campobello Island,,,,Rural Communities,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"924 Route 774
-Welshpool NB  E5E 1B1",,,http://www1.gnb.ca/cnb/DsS/RuralCommunities-e.asp?typyofPublicBodyID=4&category_E=Rural%20Communities
-11903136-e27e-4d9a-a41a-f2fe0286f4ef,Invest NB,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"HSBC Place, Room 850
-P.O. Box 6000
-Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
-ea46b401-9737-441b-86c1-995f5ed70940,Economic and Social Inclusion Corporation,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Sartain MacDonald Building
-P.O. Box 6000
-Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
-3d077703-f9c3-47c3-8653-646a97a7dc77,New Brunswick Arts Board,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"61 Carleton Street
-Fredericton NB  E3B 3T2",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
-813730fb-1253-4dd4-9379-fe2d1b76567d,Lamèque,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"28 de l'Hôpital Street
-Lamèque NB  E8T 3N4",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-47c764bf-46b5-45a2-a8c7-96e40f5565ec,Rivère-Verte,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"78 Principale Street
-Rivère-Verte NB  E7C 2T8",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-17f97d9a-f9bd-49b7-b53f-dd172bbd92fe,Blackville,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"12 South Bartholomew Road
-Blackville NB  E9B 1N2",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-27dbaed2-a8c7-458d-9dea-fe89f97c97a2,Réseau de Santé Vitalité Health Network (formerly Regional Health Authority A),,,,Regional Health Authorities,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"275 Main Street
-Bathurst NB  E2A 1A9",,,http://www1.gnb.ca/cnb/DsS/RegionalHealthAuthorities-e.asp?typyofPublicBodyID=4&category_E=Regional%20Health%20Authorities
-28f7283e-1e45-49f8-8eec-e84ca0d59b4f,Port Elgin,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"41 East Main Street
-Port Elgin NB  E4M 2X8",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-f677b4d4-81da-42e6-91e2-dc140372e2a0,New Brunswick Police Commission,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"City Center
-435 King Street
-Fredericton NB  E3B 1E5",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
-b6ff43c2-c797-465f-90bf-b88d2e42edb6,New Brunswick Lotteries and Gaming Corporation,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Centennial Building
-P.O. Box 6000
-Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
-ab4b1879-472c-4cda-8ce8-4b7296592e3d,Plaster Rock,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"153 Main Street
-Plaster Rock NB  E7G 2H2",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-f7eca6b2-e6a6-4fd4-94f0-182812ef1fba,BNPP Regional Police Force,,,,Municipal Police Forces,ocd-organization/country:ca/province:nb,,,,,CA-NB,bnpp@nb.aibn.com,"398 Principale Street
-Nigadoo NB  E8K 3M8",,,http://www1.gnb.ca/cnb/DsS/MunicipalPoliceForces-e.asp?typyofPublicBodyID=4&category_E=Municipal%20Police%20Force
-0f14a371-eed9-425e-af04-727753b4586b,Beresford,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"855 Principale Street
-Beresford NB  E8K 1T3",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-2fdfc95e-5273-4879-bf12-8dcf5255e8c4,St. Stephen,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"73 Milltown Blvd.
-St. Stephen NB  E3L 1G5",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-e8dc5fa6-db4e-465e-81e9-3fa34e55194c,New Brunswick Housing Corporation,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Sartain MacDonald Building
-P.O. Box 6000
-Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
-041e26fc-97c6-4136-bef5-c75fd75aaf64,Women's Issues (ECO),,,,Departments and Agencies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Sartain MacDonald Building
-P.O. Box 6000
-Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=1
-0fbab8ee-3a28-47cb-ac0b-45340cf78d20,Shippagan,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"200 Hôtel de Ville Avenue
-Shippagan NB  E8S 1M1",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-e78cabf8-8a08-438e-b991-e8b9277c748f,New Brunswick Forest Products Commission,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Hugh John Flemming Forestry Centre
-P.O. Box 6000
-Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
-67d65c4a-e4d6-4a1b-8985-f6c6e4f09aae,Saint-François-de-Madawaska,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"2033 Commerciale street
-Saint-François-de-Madawaska NB  E7A 1B3",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-ca691fdd-d979-4c46-9a1b-ba1d1bf2fc56,Hillsborough,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"2849 Main Street
-Hillsborough NB  E4X 2X7",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-5d499430-a609-4382-b00b-4b12b2247b1a,Centreville,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"836 Central Street
-Centreville NB  E7K 2E7",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-39e908b9-7155-4762-8178-4d9707a80813,New Brunswick Municipal Finance Corporation,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Centennial Building
-P.O. Box 6000
-Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
-6af6df80-8298-4412-98ea-2e1bb5602c58,Labour and Employment Board,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Chestnut Complex
-P.O. Box 6000
-Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
-01d7280b-7f79-4b1d-bdaa-317d735cd104,District scolaire francophone nord-est,,,,"Schools, School Districts and District Education Councils(DECs)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"3376 Principale Street
-Tracadie-Sheila, N.-B. E1X 1A4",,,http://www1.gnb.ca/cnb/DsS/SchoolDistricts-e.asp?typyofPublicBodyID=4&category_E=School%20Districts
-54b4b86d-c940-4901-9f9c-f5c5ded02a0d,New Brunswick Health Council,,,,Other Health Care Bodies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Pavillon J.-Raymond-Frenette
+279789ad-b1a3-4515-8fe3-0d8012031522,New Brunswick Health Council,,,,Other Health Care Bodies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Pavillon J.-Raymond-Frenette
 100 des Aboiteaux Street
 Moncton NB  E1A 7R1",,,http://www1.gnb.ca/cnb/DsS/OtherHealthcareBodies-e.asp?typyofPublicBodyID=4&category_E=Other%20Healthcare%20bodies
-32322113-52d8-4ebe-8b45-0084985bd1c2,RSC 6,,,,Regional Service Commissions,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"30 Evangeline Street
-Bouctouche NB  E4S 3E4",,,http://www1.gnb.ca/cnb/DsS/RegionalServiceCommission-e.asp?typyofPublicBodyID=4&category_E=Regional%20Service%20Commissions
-49cf9f02-275b-4afd-b961-0bfdfbeb6e78,New Maryland,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"584 New Maryland Highway
+29f0a2b7-ac75-45f8-9d05-3d8a063b28c3,Grand Falls Police Force,,,,Municipal Police Forces,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"131 Pleasant Street
+Grand Falls NB  E3Z 1G6",,,http://www1.gnb.ca/cnb/DsS/MunicipalPoliceForces-e.asp?typyofPublicBodyID=4&category_E=Municipal%20Police%20Force
+2a55d8c8-506f-44cb-a4f7-ff2fc938714e,Port Elgin,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"41 East Main Street
+Port Elgin NB  E4M 2X8",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+2bb2def4-f37d-4f40-9997-2e8f9fa913ca,"Tourism, Heritage and Culture",,,,Departments and Agencies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Centennial Building
+P.O. Box 6000
+Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=1
+2c98115c-807a-40d4-9f2e-2ee1b1fda134,Energy and Mines,,,,Departments and Agencies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Brunswick Square
+1 Germain Street
+Saint John NB  E2L 4V1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=1
+2f64a389-6f59-4f11-aaee-c24efd84517f,FacilicorpNB,,,,Other Health Care Bodies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Brunswick Square
+1 Germain Street
+Saint John NB  E2L 4V1",,,http://www1.gnb.ca/cnb/DsS/OtherHealthcareBodies-e.asp?typyofPublicBodyID=4&category_E=Other%20Healthcare%20bodies
+301e01a1-bd73-43c4-99b4-b0fa67bb9577,Village Historique Acadien,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Centennial Building
+P.O. Box 6000
+Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
+30d8f680-9707-4b9b-a0e8-4ce8efab392a,Financial and consumer services commission,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"85 Charlotte Street
+Saint John NB  E2L 2J2",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
+312da142-41fd-4afd-a8ac-a5930d967db4,New Brunswick Emergency Measures Organization,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Argyle Place
+P.O. Box 6000
+Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
+32ed900b-5588-4e1d-b7b6-91e17e5513c0,Grand Bay-Westfield,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"609 River Valley Drive
+Grand Bay-Westfield NB  E5K 4V3",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+330df5ef-9a4a-4a8a-956a-39d71a683106,Réseau de Santé Horizon Health Network (formerly Regional Health Authority B),,,,Regional Health Authorities,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"155 Pleasant Street
+Miramichi NB  E1V 1Y3",,,http://www1.gnb.ca/cnb/DsS/RegionalHealthAuthorities-e.asp?typyofPublicBodyID=4&category_E=Regional%20Health%20Authorities
+3346a4d5-f017-49b8-83b1-d1308b62b241,Anglophone School District South,,,,"Schools, School Districts and District Education Councils(DECs)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"490 Woodward Avenue
+Saint John NB  E2K 5N3",,,http://www1.gnb.ca/cnb/DsS/SchoolDistricts-e.asp?typyofPublicBodyID=4&category_E=School%20Districts
+33d217ab-3a82-4b55-bc50-9e8962176b77,Hillsborough,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"2849 Main Street
+Hillsborough NB  E4X 2X7",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+34ae1a1b-e8bd-49b0-9b50-a086bab73434,Shediac,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"290 Main Street
+Shediac NB  E4P 2E3",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+34dca065-5733-4b63-90bd-7ece4d3c1245,New Brunswick Arts Board,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"61 Carleton Street
+Fredericton NB  E3B 3T2",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
+35acbdc1-9279-4ef3-99c4-3d463127d766,Executive Council Office,,,,Departments and Agencies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Centennial Building
+P.O. Box 6000
+Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=1
+37a4a177-7dc1-46bf-907e-2b03423b2c1b,Upper Miramichi,,,,Rural Communities,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"6094 Route 8
+Boiestown NB  E6A 1M7",,,http://www1.gnb.ca/cnb/DsS/RuralCommunities-e.asp?typyofPublicBodyID=4&category_E=Rural%20Communities
+39533292-f459-411b-9271-80954c9ff06c,Saint-André,,,,Rural Communities,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"438 Levesque Street
+Saint-André NB  E3Y 3C7",,,http://www1.gnb.ca/cnb/DsS/RuralCommunities-e.asp?typyofPublicBodyID=4&category_E=Rural%20Communities
+3994a8e8-2b3a-4d22-84e4-691d83692014,Quispamsis,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"12 Landing Court
+Quispamsis NB  E2E 4Z4",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+3aa78c69-11bb-4e0c-acb7-863be010548a,Fredericton,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"397 Queen Street
+Fredericton NB  E3B 4Y7",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+3ac06f79-d6cc-420a-ad9c-d789f0226a32,New Brunswick Police Commission,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"City Center
+435 King Street
+Fredericton NB  E3B 1E5",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
+3afda6a9-3a63-4a78-8a56-2a4b063436b5,Drummond,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"1412 Tobique Road
+Drummond NB  E3Y 1H7",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+3c5e1af2-1ffb-4e5c-ab9a-3a1249e9dc2b,St. Stephen,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"73 Milltown Blvd.
+St. Stephen NB  E3L 1G5",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+3c696919-6f3a-447f-8fa9-ba98e3b98c09,New Brunswick Public Libraries Board,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Chestnut Complex
+P.O. Box 6000
+Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
+416973cc-f1b1-4f34-b83e-f171561210eb,Clair,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"809E Principale Street
+Clair NB  E7A 2H7",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+4222b02b-7750-4929-973a-577695359247,Stanley,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"20 Main Street
+Stanley NB  E6B 1A2",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+432e5dd4-8df4-435e-9b7c-4731776f088e,Social Development,,,,Departments and Agencies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Sartain MacDonald Building
+P.O. Box 6000
+Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=1
+43b053be-22a7-4d35-9e10-4eb77ad8806d,New Maryland,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"584 New Maryland Highway
 New Maryland NB  E3C 1K1",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-566ae181-fd0d-4b79-91a0-220266aa997a,St. Thomas University,,,,Universities,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"401 McCain Hall
-Fredericton NB  E3B 5G3",,,http://www1.gnb.ca/cnb/DsS/universities-e.asp?typyofPublicBodyID=4&category_E=Universities
-dacc3779-e693-4268-ad5c-e63cd1503e67,Energy Efficiency and Conservations Agency of New Brunswick (Efficiency NB),,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"35 Charlotte Street
-Saint John NB  E2L 2H3",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
-1c2a7a00-b8ae-4c62-8ca9-eb5b9331a611,Sussex Corner,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"1067 Main Street
+45585e60-05f1-40e9-9e3d-cfc078ad349c,Health,,,,Departments and Agencies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"HSBC Place
+P.O. Box 5100
+Fredericton NB  E3B 5G8",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=1
+4b19ccc4-46c5-4093-9770-5185e2cb8033,NB Power,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"P.O. Box 2010
+515 King Street
+Fredericton NB  E3B 4X1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
+4bcb2e5d-760f-4d85-8fea-e1eafcd04999,Millville,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"39 Howland Ridge Road
+Millville NB  E6E 1Y3",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+4cc97542-5b00-4095-a39c-42d2cbc5e1f8,Government Services,,,,Departments and Agencies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Marysville Place
+P.O. Box 6000
+Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=1
+4e8d925a-ee35-47f3-b030-044bb2741c58,Healthy and Inclusive Communities,,,,Departments and Agencies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Place 2000
+P.O. Box 6000
+Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=1
+4eaa9acc-d078-4c09-8982-3dd5b616c081,Fredericton Police Force,,,,Municipal Police Forces,ocd-organization/country:ca/province:nb,,,,,CA-NB,reportrequests@fredericton.ca,"311 Queen Street
+Fredericton NB  E3B 1B1",,,http://www1.gnb.ca/cnb/DsS/MunicipalPoliceForces-e.asp?typyofPublicBodyID=4&category_E=Municipal%20Police%20Force
+5262e4d4-fba9-4b1e-803d-cba1496432e0,Anglophone School District East,,,,"Schools, School Districts and District Education Councils(DECs)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"1077 St. George Blvd., Suite 200
+Moncton NB  E1E 4C9",,,http://www1.gnb.ca/cnb/DsS/SchoolDistricts-e.asp?typyofPublicBodyID=4&category_E=School%20Districts
+52f715fd-5467-481e-8303-277d6778dd7a,Fort La Tour Development Authority,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"243 Metcalf Street
+Saint John NB  E2K 1K7",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
+53304b1f-fc18-40b1-9379-494e5ec48e9d,Anglophone School District North,,,,"Schools, School Districts and District Education Councils(DECs)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"78 Henderson Street
+Miramichi NB  E1N 2R7",,,http://www1.gnb.ca/cnb/DsS/SchoolDistricts-e.asp?typyofPublicBodyID=4&category_E=School%20Districts
+54974d64-6ef3-4daf-8693-331000727d92,Edmundston,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"7 Canada Road
+Edmundston NB  E3V 1T7",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+554ceb30-9f94-40ac-959f-6e6d063af4d5,New Brunswick Municipal Finance Corporation,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Centennial Building
+P.O. Box 6000
+Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
+563d8afe-80ac-47c2-a3bc-bdf922651d48,Bas-Caraquet,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"8185 St-Paul Street
+Bas-Caraquet NB  E1W 6C4",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+572aaed8-a488-4739-9b5b-b04ef8966eaf,Kings Landing Corporation,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Centennial Building
+P.O. Box 6000
+Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
+5761c095-f6ad-4b8d-8b26-1d1c1d04a245,Bertrand,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"651-1 Acadiens Blvd
+Bertrand NB  E1W 1G5",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+5846641e-aa1c-47eb-9d8c-9ee6ba255842,Lamèque,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"28 de l'Hôpital Street
+Lamèque NB  E8T 3N4",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+587fcdc5-80f3-4b1e-bb0d-bd885de8ed9c,RSC 3,,,,Regional Service Commissions,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Complexe Madisco
+702 Principale Street
+Petit-Rocher NB  E8R 1J7",,,http://www1.gnb.ca/cnb/DsS/RegionalServiceCommission-e.asp?typyofPublicBodyID=4&category_E=Regional%20Service%20Commissions
+58e88ddb-72be-42c5-9ba4-8177428d3488,M.O.R.E. SERVICES Inc.,,,,Departments and Agencies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Centennial Building
+P.O. Box 6000
+Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=1
+5980ec28-2663-4b3a-b10f-2dfed5b3ed06,New Brunswick Farm Products Commission,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Agricultural Research Station (Experimental Farm)
+P.O. Box 6000
+Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
+5af66cf3-8bec-46b1-b3c9-6393f37b8083,Invest NB,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"HSBC Place, Room 850
+P.O. Box 6000
+Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
+5bdc8ac6-25e0-437c-8521-6d46a8d72623,Rivère-Verte,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"78 Principale Street
+Rivère-Verte NB  E7C 2T8",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+5deb589f-75dc-4ae2-9607-779b6aeb8224,Campbellton,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"76 Water Street
+Campbellton NB  E3N 3G1",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+6000be52-ff34-4350-9cfd-5f981048df7a,Petit-Rocher,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"582 Principale Street
+Petit-Rocher NB  E8J 1S5",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+60ec8da7-2c82-4f15-b945-1c394248dab6,Bathurst Police Force,,,,Municipal Police Forces,ocd-organization/country:ca/province:nb,,,,,CA-NB,city.police@bathurst.ca,"285 King Avenue
+Bathurst NB  E2A 1N9",,,http://www1.gnb.ca/cnb/DsS/MunicipalPoliceForces-e.asp?typyofPublicBodyID=4&category_E=Municipal%20Police%20Force
+61784a3f-8cad-4930-a7f9-d1da02f43eef,La Francophonie,,,,Departments and Agencies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Centennial Building
+P.O. Box 6000
+Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=1
+6180647b-649c-4b3b-82a1-640e954c819d,RSC 4,,,,Regional Service Commissions,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"1040-4 du Parc Street
+Paquetville NB  E8R 1J7",,,http://www1.gnb.ca/cnb/DsS/RegionalServiceCommission-e.asp?typyofPublicBodyID=4&category_E=Regional%20Service%20Commissions
+674f957c-9da5-4693-a588-002281ad243c,New Brunswick Provincial Capital Commission,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"103 Church Street
+Fredericton NB  E3B 4C8",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
+67c55666-0b41-48a4-9cb1-60337b1dbb8f,RSC 2,,,,Regional Service Commissions,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"68A Water Street
+Campbellton NB  E3N 1B1",,,http://www1.gnb.ca/cnb/DsS/RegionalServiceCommission-e.asp?typyofPublicBodyID=4&category_E=Regional%20Service%20Commissions
+6b55bb33-14d1-4944-b3e2-8745be02e4ea,Centreville,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"836 Central Street
+Centreville NB  E7K 2E7",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+6fe47286-62bc-495b-a7b5-462191b6f444,Public Safety,,,,Departments and Agencies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Argyle Place
+P.O. Box 6000
+Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=1
+6feb44b0-029f-4047-9044-0c236bb8850a,Grand-Sault / Grand Falls,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"131 Pleasant Street
+Grand Falls NB  E3Z 1G6",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+701a91ab-d341-4c51-8138-d68eafd77ff7,New Brunswick Highway Commission,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Kings Place
+P.O. Box 6000
+Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
+72f51519-21b8-4cfb-8202-e7428c6fcf72,Women's Issues (ECO),,,,Departments and Agencies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Sartain MacDonald Building
+P.O. Box 6000
+Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=1
+74b5e7ae-9996-4c93-9828-8de6c9c86fb9,Rothesay,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"70 Hampton Road
+Rothesay NB  E2E 5L5",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+76729352-a923-42ac-8911-022ec169f1da,Regional Development Corporation,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"RDC Building
+P.O. Box 428
+Fredericton NB  E3B 5R4",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
+76833c12-96b3-4e2e-b348-5fd244137f64,Tracy,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"4435 Heritage Drive
+Tracy NB  E5L 1C1",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+76eef4be-ed97-4930-a201-1f49c52058c8,Regional Family Income Security Appeal Board,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Sartain MacDonald Building
+P.O. Box 6000
+Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
+77cbd41f-1c88-465e-b0ae-477a3c65ec1c,Lac-Baker,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"69 De la Pointe Road
+Lac-Baker NB  E7A 1J1",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+7bfbb8c2-07a7-4a43-a936-641bcb1e25fe,RSC 6,,,,Regional Service Commissions,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"30 Evangeline Street
+Bouctouche NB  E4S 3E4",,,http://www1.gnb.ca/cnb/DsS/RegionalServiceCommission-e.asp?typyofPublicBodyID=4&category_E=Regional%20Service%20Commissions
+7c052ad6-5ed8-453c-8980-e241c2124e16,Florenceville-Bristol,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"19 Station Road
+Florenceville-Bristol NB  E7L 3J8",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+7c3d0c68-bc7f-45ee-947b-597a6c793f4c,Energy and Utilities Board,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"P.O. Box 5001
+Saint John NB  E2L 4Y9",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
+7de0161c-549e-44ad-9562-06e27159a7b9,Chipman,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"10 Civic Court
+Chipman NB  E4A 2H9",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+7ef5cd42-bc0d-429b-afe9-ed3461db132f,RSC 11,,,,Regional Service Commissions,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"860 Prospect Street
+Fredericton NB  E3B 2T8",,,http://www1.gnb.ca/cnb/DsS/RegionalServiceCommission-e.asp?typyofPublicBodyID=4&category_E=Regional%20Service%20Commissions
+7f51b9b3-6e3c-4f7c-aef1-bafc26878f62,Environment and Local Government,,,,Local Service Districts (LSDs),ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Marysville Place
+P.O. Box 6000
+Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/LocalServiceDistricts-e.asp?typyofPublicBodyID=4&category_E=Local%20Service%20Districts%20(LSDs)
+7f9cc5f5-0994-4238-8f8c-c9a4741d7b6d,Private Investigators and Security Services Licensing Commission,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Argyle Place
+P.O. Box 6000
+Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
+7fbd7c82-52c2-4b7a-8940-90c898bcda97,District scolaire francophone sud,,,,"Schools, School Districts and District Education Councils(DECs)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"425 Champlain Street
+Dieppe, N.-B. E1A 1P2",,,http://www1.gnb.ca/cnb/DsS/SchoolDistricts-e.asp?typyofPublicBodyID=4&category_E=School%20Districts
+7fc7f9cf-9389-4760-aab9-ecfbedb52418,Human Resources,,,,Departments and Agencies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Centennial Building
+P.O. Box 6000
+Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=1
+82120eb5-a30c-4aeb-9187-7c77709c2e2d,Dorchester,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"4984 Main Street
+Dorchester NB  E4K 2Z1",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+837023ed-6e72-40f2-8728-da238d1f3402,Collège Communautaire du Nouveau-Brunswick (CCNB),,,,Community Colleges,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"P.O. Box 700
+Bathurst NB  E2A 3Z6",,,http://www1.gnb.ca/cnb/DsS/communityColleges-e.asp?typyofPublicBodyID=4&category_E=Community%20Colleges
+8494749e-bf65-432d-818c-e6837f61ba49,Beaubassin-Est/East,,,,Rural Communities,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"1709 chemin 133
+Grand-Barachois NB  E4P 8V1",,,http://www1.gnb.ca/cnb/DsS/RuralCommunities-e.asp?typyofPublicBodyID=4&category_E=Rural%20Communities
+870f681a-63f5-485a-a589-acb36614c5ea,New Brunswick Electric Finance Commission,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Centennial Building
+P.O. Box 6000
+Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
+87f7b443-d4a2-46be-a167-91470846057f,Riverview,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"30 Honour House Court
+Riverview NB  E1B 3Y9",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+8b47017b-34dc-4cfa-ba2b-a66c50cf03bf,Dalhousie,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"111 Hall Street
+Dalhousie NB  E8C 1X2",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+8f5765ef-d443-4305-8dd4-d143fa27ffe4,Rogersville,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"28 École Street
+Rogersville NB  E4Y 1V7",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+902fd49a-322e-4bdd-9e03-3b5da3d71c0b,New Brunswick Liquor Corporation,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"P.O. Box 20787
+Fredericton NB  E3B 5B8",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
+906d7c31-b260-4a23-bcbd-dafa6c18c271,Nigadoo,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"385 Principale Street
+Nigadoo NB  E8K 3R6",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+94082449-4bbd-45fb-bcf7-e9e284610a1c,Belledune,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"2330 Main Street
+Belledune NB  E8G 2X9",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+96ccf7be-9f33-46a8-999a-ca9a1c1e8927,Oromocto,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"4 Doyle Drive
+Oromocto NB  E2V 2V3",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+97ddc0d3-e892-4c01-9a7f-90ab95002519,Meductic,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"320 Route 165
+Meductic NB  E6H 1J5",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+993d6d31-dec0-4f3d-8572-f8712a673490,Mount Allison University,,,,Universities,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"65 York Street
+Sackville NB  E4L 1E4",,,http://www1.gnb.ca/cnb/DsS/universities-e.asp?typyofPublicBodyID=4&category_E=Universities
+99c59e93-af7e-4f33-9cff-410adcd2640a,Bathurst,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"150 George Street
+Bathurst NB  E2A 1B5",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+9adb0897-6448-45ec-8d34-ec4fb6096320,Rothesay Regional Police Force,,,,Municipal Police Forces,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"126 Millennium Drive
+Quispamsis NB  E2E 6E6",,,http://www1.gnb.ca/cnb/DsS/MunicipalPoliceForces-e.asp?typyofPublicBodyID=4&category_E=Municipal%20Police%20Force
+9b6bf279-8c44-44af-9f6d-0d8d00c2b59b,"Workplace, Health, Safety and Compensation Commission (Worksafe NB)",,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"1 Portland Street
+P.O. Box 160
+Saint John NB  E2L 3X9",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
+9c38fc38-6657-4fd4-b53b-f5f4ad06cb03,Sussex Corner,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"1067 Main Street
 Sussex Corner NB  E4E 3A1",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
-a93462ad-c09e-4a8c-b5a8-828d21caa084,Saint-Léonard,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"108 Pont Street
+9d880dc3-992c-45de-9d06-bf2aa6312eb0,Anglophone School District West,,,,"Schools, School Districts and District Education Councils(DECs)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"1135 Prospect Street
+Fredericton NB  E3B 4Y4",,,http://www1.gnb.ca/cnb/DsS/SchoolDistricts-e.asp?typyofPublicBodyID=4&category_E=School%20Districts
+9db341bb-35cc-4e6c-93ff-58b2a84a855f,New Brunswick Human Rights Commission,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Chestnut Complex
+P.O. Box 6000
+Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
+a114031d-cc3e-4747-b4a3-130a9285a177,Minimum Wage Board,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Chestnut Complex
+P.O. Box 6000
+Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
+a3ae7806-f6cc-4b8f-9604-f4c1ef5a9ef7,Saint-Anne-de-Madawaska,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"75 Principale Street
+Saint-Anne-de-Madawaska NB  E7E 1A8",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+a4bf4e8a-f417-4fdd-a106-e62805ae2b6a,St. Thomas University,,,,Universities,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"401 McCain Hall
+Fredericton NB  E3B 5G3",,,http://www1.gnb.ca/cnb/DsS/universities-e.asp?typyofPublicBodyID=4&category_E=Universities
+a6f0e3fe-98e0-43e4-a11d-6bb10fdf1429,Miramichi Police Force,,,,Municipal Police Forces,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Beaverbrook Centre
+1820 Water Street
+Miramichi NB  E1N 1B7",,,http://www1.gnb.ca/cnb/DsS/MunicipalPoliceForces-e.asp?typyofPublicBodyID=4&category_E=Municipal%20Police%20Force
+a7d22077-c05e-4261-868f-aae3f6539a33,"Post-secondary Education, Training and Labour",,,,Departments and Agencies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Chestnut Complex
+P.O. Box 6000
+Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=1
+a83d9112-a51e-4d20-8089-c393b6eb1e15,Baker-Brook,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"3677 Principale Street
+Baker-Brook NB  E7A 1V3",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+a886b749-76ac-4127-a8ac-e294c46c111f,Service New Brunswick,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Westmorland Place
+P.O. Box 1998
+Fredericton NB  E3B 5G4",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
+a916fa64-56c6-4b67-b52b-8e6251f9ec95,McAdam,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"146 Saunders Road
+McAdam NB  E6J 1L2",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+a94d1b84-ed2e-4d4a-a6b3-81c1fb5bcc8a,Saint Andrews,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"212 Water Street
+Saint Andrews NB  E5B 1B4",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+aa9f1c6b-fc33-43dc-88fb-251b9a31f3a5,Sainte-Marie-Saint-Raphaël,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"1541 Mer Blvd.
+Sainte-Marie-Saint-Raphaël NB  E8T 1P5",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+ab1c5b8b-0d82-45b7-a64c-d3301b688113,Sussex,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"524 Main Street
+Sussex NB  E4E 3E4",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+ac5a9f1a-0563-4204-8b31-a51b5eb722df,Dieppe,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"333 Acadie Avenue
+Dieppe NB  E1A 1G9",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+acdc4d26-801e-48fc-8749-cb0d9aa7f0c7,New Brunswick Legal Aid Services Commission,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"356 Queen Street
+Fredericton NB  E3B 1B2",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
+ae205a43-9358-4922-8a51-f0b58bf3e2e5,Saint-Louis-de-Kent,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"10511 Principale Street
+Saint-Louis-de-Kent NB  E4X 1E6",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+ae50c005-00ac-4099-9206-bd15837f5afa,Eel River Crossing,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"20 Savoie Street
+Eel River Crossing NB  E8E 1T8",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+aef0efd2-0f08-409d-a941-d9407dde1968,Aroostook,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"383 Main Street
+Aroostook NB  E7H 2Z4",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+b052cbfc-e70c-4164-8ed8-06bcbfdfc5dc,New Brunswick Community College (NBCC),,,,Community Colleges,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"284 Smythe Street
+Fredericton NB  E3B 3C9",,,http://www1.gnb.ca/cnb/DsS/communityColleges-e.asp?typyofPublicBodyID=4&category_E=Community%20Colleges
+b0cbb8e6-48d8-47da-a719-5cc982b03fce,Woodstock Police Force,,,,Municipal Police Forces,ocd-organization/country:ca/province:nb,,,,,CA-NB,police.chief@town.woodstock.nb.ca,"822 Main Street
+Woodstock NB  E7M 2E8",,,http://www1.gnb.ca/cnb/DsS/MunicipalPoliceForces-e.asp?typyofPublicBodyID=4&category_E=Municipal%20Police%20Force
+b0dcd13c-b707-4482-b06d-137163c6e9bc,Paquetville,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"1094 du Parc Street
+Paquetville NB  E8R 1J4",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+b2ec2e26-03f9-4e75-838a-2d6e14a5d370,Senior and Healthy Aging Secretariat,,,,Departments and Agencies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Sartain MacDonald Building
+P.O. Box 6000
+Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=1
+b4a7dce0-8025-4ed6-936a-b223e73563a7,Salisbury,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"56 Salisbury Street
+Salisbury NB  E4J 3E3",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+b4b59834-317c-4f33-92a3-f2ccd3529efd,Memramcook,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"540 Centrale Street
+Memramcook NB  E4K 3S6",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+b4c965e6-bf62-4d8a-a55e-09867c454f55,Rexton,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"79 Main Street
+Rexton NB  E4W 1Z9",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+b5d02e5b-e585-41e9-9e6e-014c203fc71c,New Brunswick Museum,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"277 Douglas Avenue
+Saint John NB  E2K 1E5",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
+b6019b71-174d-4570-94fc-a32d6f2ed72e,District scolaire francophone nord-ouest,,,,"Schools, School Districts and District Education Councils(DECs)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"298 Martin Street
+Edmundston, N.-B. E3V 5E5",,,http://www1.gnb.ca/cnb/DsS/SchoolDistricts-e.asp?typyofPublicBodyID=4&category_E=School%20Districts
+b677fdd0-9764-4fe7-8a4b-07c9245cac9f,N.B. Grain Commission,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Agricultural Research Station (Experimental Farm)
+P.O. Box 6000
+Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
+b6ce750b-7269-4d71-89be-c63a9ffaf4a3,RSC 5,,,,Regional Service Commissions,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"1773 Water Street
+Miramichi NB  E1N 1B2",,,http://www1.gnb.ca/cnb/DsS/RegionalServiceCommission-e.asp?typyofPublicBodyID=4&category_E=Regional%20Service%20Commissions
+b755ebcb-9e5c-4482-837a-c9d573b43667,Riverside-Albert,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"5823 King Street
+Riverside-Albert NB  E4H 4B4",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+b88b562c-fed3-4981-9f8b-25abe5218eef,Nackawic,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"115 Otis Drive
+Nackawic NB  E6G 2P1",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+b939edb0-336c-483c-bff8-a641ceff04c2,Assessment and Planning Appeal Board,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"City Centre
+P.O. Box 6000
+Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
+bbc06d0a-7acf-4ea5-bd05-8601d688a6cd,Canterbury,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"199 Main Street
+Canterbury NB  E6H 1M6",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+bd43e5d6-1f5b-46df-8b7a-a90dced8e437,Energy Efficiency and Conservations Agency of New Brunswick (Efficiency NB),,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"35 Charlotte Street
+Saint John NB  E2L 2H3",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
+be3d52eb-1db1-4f29-8384-8f2e5757286b,Centre Communautaire Sainte- Anne,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Centre Sainte-Anne
+715 Priestman Street
+Fredericton NB  E3B 5W7",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
+be788b6a-c268-4b6a-b0d1-51176534efc2,Saint John Police Force,,,,Municipal Police Forces,ocd-organization/country:ca/province:nb,,,,,CA-NB,police@saintjohn.ca,"P.O. Box 1971
+Saint John NB  E2L 4L1",,,http://www1.gnb.ca/cnb/DsS/MunicipalPoliceForces-e.asp?typyofPublicBodyID=4&category_E=Municipal%20Police%20Force
+bef9a280-b8ef-4d73-9405-0273f2aa4cea,Sackville,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"P.O. Box 6191
+Sackville NB  E4L 1G6",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+bfb100bd-3ebe-4769-b6cd-70b0c7d09065,Beaverbrook Art Gallery - Board of Governors,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"P.O. Box 605
+Fredericton NB  E3B 5A6",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
+c18abebb-665e-4e33-abd6-5d45a2fed497,New Brunswick Industrial Development Board,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Centennial Building
+P.O. Box 6000
+Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
+c190c65e-7b17-4229-9dcc-4915cdbda216,Economic and Social Inclusion Corporation,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Sartain MacDonald Building
+P.O. Box 6000
+Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
+c2067e7f-64c2-4528-9aec-500acb7fcdc2,Plaster Rock,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"153 Main Street
+Plaster Rock NB  E7G 2H2",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+c5ecb48d-a91a-486b-9546-84c8748da456,Caraquet,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"10 Colisée Street
+Caraquet NB  E1W 1B7",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+c99becd1-23e9-4cc3-ab00-733b389aaf30,Minto,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"420 Pleasant Drive
+Minto NB  E4B 2T3",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+cb37ac3c-86da-4d6e-827c-f2a2fccc2f49,Maisonnette,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"1512 Châtillon Street
+Maisonnette NB  E8N 1S4",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+cc950be0-f029-4f56-99cc-3dcb481dc2ed,Bouctouche,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"211 Irving Blvd
+Bouctouche NB  E4S 3K6",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+cce08be4-1e9b-4221-b140-46b2eca5dcfd,Harvey,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"58 Hanselpacker Street
+Harvey NB  E6K 1A3",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+cda47e82-9125-429f-baf1-e53c07f22c94,Education & Early Childhood Development,,,,Departments and Agencies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Place 2000
+P.O. Box 6000
+Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=1
+ceea8213-ad50-48a3-b53a-b959c6d629f0,New Brunswick Fisheries and Aquaculture Development Board,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Agricultural Research Station (Experimental Farm)
+P.O. Box 6000
+Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
+d082dc5c-f3ba-483b-8fb8-7bfe8321cab8,Hampton,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"27 Centennial Street
+Hampton NB  E5N 8H1",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+d10d6df1-2cbd-4ff3-87e9-b5b4a8d879bb,Kedgwick,,,,Rural Communities,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"114 Notre Dame Road
+Kedgwick NB  E8B 1H8",,,http://www1.gnb.ca/cnb/DsS/RuralCommunities-e.asp?typyofPublicBodyID=4&category_E=Rural%20Communities
+d1621691-4f61-49f9-bac9-be8ad4f1cdd8,Salvage Dealers Licensing Commission,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Argyle Place
+P.O. Box 6000
+Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
+d345e565-64c2-4b25-9e83-271a091e5781,Aboriginal Affairs Secretariat,,,,Departments and Agencies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Kings Place
+P.O. Box 6000
+Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=1
+d357f35e-eae6-4f26-a7bd-1a751aa5611c,Woodstock,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"824 Main Street
+Woodstock NB  E7M 2E8",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+d3aae3a1-78ce-4a94-a5cc-573e15b325fb,Transportation & Infrastructure,,,,Departments and Agencies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Kings Place
+P.O. Box 6000
+Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=1
+d41bb873-cb9e-4b60-8c7e-091addb42e94,Grand Manan,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"4-1021 Route 776
+Grand Manan NB  E5G 4E5",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+d4a34c9e-5c14-4ae8-80e8-4f970d8b003c,Private Occupational Training Corporation,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Chestnut Complex
+P.O. Box 6000
+Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
+d4bd0afd-a743-442b-83a5-524093ecd37c,District scolaire francophone nord-est,,,,"Schools, School Districts and District Education Councils(DECs)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"3376 Principale Street
+Tracadie-Sheila, N.-B. E1X 1A4",,,http://www1.gnb.ca/cnb/DsS/SchoolDistricts-e.asp?typyofPublicBodyID=4&category_E=School%20Districts
+d4d2d749-af7f-4119-983e-b148a71e06f0,Cap-Pelé,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"33 St.-André Road
+Cap-Pelé NB  E4N 1Z4",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+d55493ac-9dc6-4936-b5cb-4ee5b8ae57e3,Neguac,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"1175 Principale Street
+Neguac NB  E9G 1T1",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+d5f18e01-7280-48a7-bb9e-2e3ac1a617a5,New Brunswick Forest Products Commission,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Hugh John Flemming Forestry Centre
+P.O. Box 6000
+Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
+d6d6040c-acd4-44cf-9583-454f3a1cd877,New Brunswick Internal Services Agency,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Marysville Place
+P.O. Box 6000
+Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
+d7c51dbe-3681-40d4-a303-21b0e0b39f5b,Finance,,,,Departments and Agencies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Centennial Building
+P.O. Box 6000
+Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=1
+dad4be64-4cb0-43e6-953b-7cbc0276ef1c,Bath,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"161 School Street
+Bath NB  E7J 1C3",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+db352fcf-57c2-4893-98f5-11edc75cb1e4,Doaktown,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"8 Miramichi Street
+Doaktown NB  E9C 1C8",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+db40efed-09d7-4c67-aa16-53199ed1a870,Fredericton Junction,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"102 Wilsey Road
+Fredericton Junction NB  E5L 1W7",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+dbf5bcb1-6f85-4316-bef6-c73ddad59e86,Justice and Attorney General,,,,Departments and Agencies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Centennial Building
+P.O. Box 6000
+Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=1
+dd315256-3161-4b85-aa46-cc592cbe267a,Saint-Léolin,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"117 Prés Street
+Saint-Léolin NB  E8N 2P9",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+e059e409-1b5c-45e2-b853-f6245cdfdb7b,Algonquin Properties Ltd.,,,,Schedule A,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Kings Place
+P.O. Box 6000
+Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=3
+e0ce6847-2b3b-4469-94ad-3ee5898dcaff,Norton,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"P.O. Box 335
+Norton NB  E5T 1J7",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+e1975cb7-f900-42d0-8d17-daddd2ab1463,New Brunswick Lotteries and Gaming Corporation,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Centennial Building
+P.O. Box 6000
+Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
+e233bf88-6125-492e-900d-bdd036f17e92,Petitcodiac,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"63 Main Street
+Petitcodiac NB  E4Z 6H4",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+e24b2fab-b70e-4afa-88e7-c818ae2554af,Blacks Harbour,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"65 Wallace Cove Road
+Blacks Harbour NB  E5H 1G9",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+e31b2f75-753f-4495-98c2-d2684560c1de,Natural Resources,,,,Departments and Agencies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Hugh John Flemming Forestry Centre
+P.O. Box 6000
+Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=1
+e3384997-2514-45e9-abaa-a264de1995e5,Gagetown,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"68 Babbit Street
+Gagetown NB  E5M 1C8",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+e33d2352-b3b8-408b-a75f-c6ce28ec69e1,Premier's Council on the Status of Disabled Persons,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Centennial Building
+P.O. Box 6000
+Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
+e4146526-c6ab-4be0-a9e9-45a16813612d,Balmoral,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"1447 des Pionniers Avenue
+Balmoral NB  E8E 2W7",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+e5dad412-03e2-41a6-8b74-69fdf3a4b252,New Brunswick Investment Management Corporation,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"440 King Street
+Fredericton NB  E3B 5H8",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
+e673e7e4-db20-4a8a-909b-4ba70d31441d,Intergovernmental Affairs,,,,Departments and Agencies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Centennial Building
+P.O. Box 6000
+Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=1
+e8af7852-21c4-4fff-b0c1-6a909dc93cbb,New Brunswick Insurance Board,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Saint John Mercantile Centre
+55 Union Street
+Saint John NB  E2L 5B7",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
+e911112d-b8d0-4f4f-97f1-fd10c296c714,Moncton,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"655 Main Street
+Moncton NB  E1C 1E8",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+e934d5ab-6159-4d0f-a861-69e356002549,Saint-Léonard,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"108 Pont Street
 Saint-Léonard NB  E7E 1Y1",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+eb8bc685-4185-44da-95ef-c0ac4be2a89e,Shippagan,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"200 Hôtel de Ville Avenue
+Shippagan NB  E8S 1M1",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+ebb0e7a5-88cb-412c-ba2f-97491083b022,New Brunswick Industrial Development Appeal Board,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Centennial Building
+P.O. Box 6000
+Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
+ebc95f32-d3f5-4ff2-b459-44ab4c245df0,New Brunswick Wildlife Council,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Hugh John Flemming Forestry Centre
+P.O. Box 6000
+Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
+ecc152a1-bc4d-4804-bb6a-22c621f2b8a3,Saint-Quentin,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"10 Deschênes Street
+Saint-Quentin NB  E8A 1M1",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+ecc3ace2-ba8d-421d-bd7e-86658b57b5ef,Atholville,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"247 Notre Dame Street
+Atholville NB  E3N 4T1",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+ed743876-da00-4724-844d-3b2e5a44c2a7,RSC 8,,,,Regional Service Commissions,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"49 Winter Street
+Sussex NB  E4E 2W8",,,http://www1.gnb.ca/cnb/DsS/RegionalServiceCommission-e.asp?typyofPublicBodyID=4&category_E=Regional%20Service%20Commissions
+ee79da23-21d1-462d-afff-abc76b4e89d9,RSC 7,,,,Regional Service Commissions,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"1222 Main Street
+Moncton NB  E1C 1H6",,,http://www1.gnb.ca/cnb/DsS/RegionalServiceCommission-e.asp?typyofPublicBodyID=4&category_E=Regional%20Service%20Commissions
+ee804b16-4477-48ad-9d6c-1e833877c4b1,"Agriculture, Aquaculture and Fisheries",,,,Departments and Agencies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Agricultural Research Station (Experimental Farm)
+P.O. Box 6000
+Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=1
+ef4e6404-c830-43e0-8e8b-e8423aa66b24,St.Martin,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"73 Main Street
+St.Martin NB  E5R 1B4",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+f19a0076-cf93-4c98-bd7b-03e0a0688a1b,Saint-François-de-Madawaska,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"2033 Commerciale street
+Saint-François-de-Madawaska NB  E7A 1B3",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+f2fb1291-4d68-42e2-8b53-322e472ab65e,Tracadie-Sheila,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"3620 Principale Street
+Tracadie-Sheila NB  E1X 1G5",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+f6830915-e7c4-4c3a-8bb9-ae00dcbf0802,Environment and Local Government,,,,Departments and Agencies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Marysville Place
+P.O. Box 6000
+Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=1
+f6c3e69d-d0c8-4b60-b17a-f9c75634fb47,Pointe-Verte,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"375 Principale Street
+Pointe-Verte NB  E8J 2S8",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+f6ef5b4a-c8f4-4951-8a53-20065cc56626,Saint-Hilaire,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"2190 Central Street
+Saint-Hilaire NB  E3V 4W1",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+f6f5e54a-3eda-40ce-92ff-4a2cafce9af6,Recycle New Brunswick,,,,Schedule A,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"P.O. Box 308
+Fredericton NB  E3B 4Y9",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=3
+f9cf47e5-5e14-4e9c-929a-2ae4eb16a4f9,Ambulance New Brunswick Inc.,,,,Other Health Care Bodies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"210 John Street
+Moncton NB  E1C 0B8",,,http://www1.gnb.ca/cnb/DsS/OtherHealthcareBodies-e.asp?typyofPublicBodyID=4&category_E=Other%20Healthcare%20bodies
+fa91155d-e8a3-4110-8161-145bf2af5ee3,University of New Brunswick,,,,Universities,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Sir Howard Douglas Hall, Room 4
+P.O. Box 4400
+Fredericton NB  E3B 5A3",,,http://www1.gnb.ca/cnb/DsS/universities-e.asp?typyofPublicBodyID=4&category_E=Universities
+fabc2dae-5a46-44c2-ae46-3b1d03615677,Saint-Antoine,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"4599 Principale Street
+Saint-Antoine NB  E4V 1P8",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+fd52b747-f571-464d-8fa4-a360e97d04f1,Cambridge-Narrows,,,,"Municipalities (Cities, Towns, Villages)",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"6 Municipal Lane
+Cambridge-Narrows NB  E4C 4P4",,,"http://www1.gnb.ca/cnb/DsS/municipalities-e.asp?typyofPublicBodyID=4&category_E=Municipalities%20(Cities,%20Towns,%20Villages)"
+fe4aaa16-5087-4b83-bb4b-2bb6731bdd5f,New Brunswick Research and Productivity Council,,,,"Boards, Commissions and Corporations",ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Centennial Building
+P.O. Box 6000
+Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=2
+ffce9ae0-8e97-4f97-af2e-72ec0d058ab7,Office of the Premier,,,,Departments and Agencies,ocd-organization/country:ca/province:nb,,,,,CA-NB,,"Centennial Building
+P.O. Box 6000
+Fredericton NB  E3B 5H1",,,http://www1.gnb.ca/cnb/DsS/display-e.asp?typyofPublicBodyID=1
