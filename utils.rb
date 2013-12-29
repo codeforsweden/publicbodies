@@ -1,7 +1,9 @@
 require 'bundler/setup'
 
 require 'csv'
+require 'tempfile'
 
+require 'copy_paste_pdf'
 require 'govkit-ca'
 require 'pupa'
 require 'vcard'
@@ -33,6 +35,14 @@ class OrganizationProcessor < Pupa::Processor
   class_attribute :jurisdiction_code
 
   include OrganizationHelper
+
+  def tempfile
+    Tempfile.open('pupa') do |f|
+      f.binmode
+      f.write yield
+      f
+    end
+  end
 
   def documents
     Pupa.session['organizations'].find('extras.jurisdiction_code' => self.class.jurisdiction_code)
